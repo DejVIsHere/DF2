@@ -1,0 +1,2014 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using NAURA_CHEATS;
+using UnityEngine;
+using UnityEngine.AI;
+
+// Token: 0x02000338 RID: 824
+public class CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated : MonoBehaviour
+{
+	// Token: 0x0600136D RID: 4973 RVA: 0x000D5628 File Offset: 0x000D3828
+	private static void CF_51754dd273711d984e09a49b3442ef09bfb8ac15_Corpsefuscated(Transform CF_d82580784968a0d9d2c1b4679b565dce49adb821_Corpsefuscated, object CF_2ffd46f758da0d20d02218e6cd1a200c44c9ca74_Corpsefuscated, Transform CF_6f43f72910a68aa3e66bafd60ffea4328db9ffae_Corpsefuscated, float CF_a285f509d66f608059293a9a007891d3c31ecf75_Corpsefuscated, Vector3 CF_ce55e51acb18e60ae149dfbc6c8a2ce6f5f073aa_Corpsefuscated)
+	{
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated = 109.5f;
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated <= CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_bdb40d6f20e917dacddd45827b1bab729960901d_Corpsefuscated)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_83543df07c229a44d8a2b9eb6e111607ea7d1094_Corpsefuscated = 66.5f;
+		}
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated == CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_63e4b14e7165eacd264ad34c2f63ebfd1b2644ab_Corpsefuscated)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_f1cae4ef29145ee5558a7091df3abacce186cb7c_Corpsefuscated = CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a61618f7467a71449ca1e86cc7da3166d5170df1_Corpsefuscated - CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_cf1e7e569f06981e24a8996808a0cf403e590717_Corpsefuscated;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_debcc4d2d5e592407fbd60266829f97a0235401b_Corpsefuscated = 1f - CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_83543df07c229a44d8a2b9eb6e111607ea7d1094_Corpsefuscated;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated = 59f + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_69466757c07a8f751ac06a7ae15dfb91481bce3b_Corpsefuscated;
+		}
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a61618f7467a71449ca1e86cc7da3166d5170df1_Corpsefuscated > CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_cf1e7e569f06981e24a8996808a0cf403e590717_Corpsefuscated)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a72023d9b5c5ea93042ebdff39f6a2a319b88c38_Corpsefuscated = 27f - CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated;
+		}
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a38bccb8cbf61e616bb71ac6aefc8b147000d75e_Corpsefuscated >= 78f)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_4e95944047cf73e9d20b1f9586bbc660376f74cd_Corpsefuscated = 8f;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a72023d9b5c5ea93042ebdff39f6a2a319b88c38_Corpsefuscated = CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_4e95944047cf73e9d20b1f9586bbc660376f74cd_Corpsefuscated;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_b01ea091cc36d7c04b84b01a3a6149c2ac806e40_Corpsefuscated = 6f;
+		}
+	}
+
+	// Token: 0x0600136E RID: 4974 RVA: 0x00013540 File Offset: 0x00011740
+	private static void CF_f0ae427ad46cfa80c2c5ab7fd124a380d2dd3d55_Corpsefuscated(int CF_b0198cab1abdbf2cc3274835849b058d46d64520_Corpsefuscated, string CF_9760ceaa7f2a265ea2eba9dd7bcede80502b897e_Corpsefuscated, Animator CF_d37ffdf2e36df858df37d2508ea177af9fef9bd0_Corpsefuscated, Animator CF_8b60b510d7655238d987029a2ea604de7915c663_Corpsefuscated, int CF_225053f8b4bffb25fb13864c310cc292e35cb3bd_Corpsefuscated)
+	{
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated = -6.25f;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_084a41be79908cdcf62a408074f1a1c0459c8aa2_Corpsefuscated = 145.75f;
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_69466757c07a8f751ac06a7ae15dfb91481bce3b_Corpsefuscated <= 49.75f)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a61618f7467a71449ca1e86cc7da3166d5170df1_Corpsefuscated = 67f;
+		}
+	}
+
+	// Token: 0x0600136F RID: 4975 RVA: 0x0001356F File Offset: 0x0001176F
+	private static void CF_83a13d7e2fa7dad2caeab72a98f4544e7c0fff10_Corpsefuscated(string CF_055c8406b2cbbabd2afa193da1cebae75e45ca69_Corpsefuscated, Quaternion CF_7b4b5b4611562ece9f480cde89d9ebcb3d005216_Corpsefuscated, float CF_902b98bfd0d8d709a866c526bcf0fb1fcd7ce28b_Corpsefuscated, float CF_1c5cf5816461ce6ec5218b537c7e5c97e807caba_Corpsefuscated, string CF_64504d7e5b85f89399cf12e9837175490e2c6b89_Corpsefuscated)
+	{
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_83543df07c229a44d8a2b9eb6e111607ea7d1094_Corpsefuscated = 28f;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_0ddc414300ff72299f0fd2dd4c13a397255297df_Corpsefuscated = CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated - CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_cf1e7e569f06981e24a8996808a0cf403e590717_Corpsefuscated;
+	}
+
+	// Token: 0x06001370 RID: 4976 RVA: 0x0001358B File Offset: 0x0001178B
+	private static void CF_8dcf65670820f3b946857c9a3ed1a5e30ae0b8a3_Corpsefuscated(Animator CF_2f8639481207f6906af51a44618beaf7664ae2bb_Corpsefuscated, Transform CF_667e873cc87920da6eb8e9984f49f9b80d04942e_Corpsefuscated, double CF_70ecf717cb7cf1e19e7e31464c74303b4745d94c_Corpsefuscated, Animator CF_b4e9b9ba5cc586e46249d61003fda6fd26c64cb4_Corpsefuscated, Quaternion CF_e1d7662fee70d47ba97d86752a8959bad5b31c59_Corpsefuscated)
+	{
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_0ddc414300ff72299f0fd2dd4c13a397255297df_Corpsefuscated != 96f)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated = 144.75f;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_debcc4d2d5e592407fbd60266829f97a0235401b_Corpsefuscated = -47.25f;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_cf1e7e569f06981e24a8996808a0cf403e590717_Corpsefuscated = 175.75f;
+		}
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_69466757c07a8f751ac06a7ae15dfb91481bce3b_Corpsefuscated = CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_b01ea091cc36d7c04b84b01a3a6149c2ac806e40_Corpsefuscated - CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_0ddc414300ff72299f0fd2dd4c13a397255297df_Corpsefuscated;
+	}
+
+	// Token: 0x06001371 RID: 4977 RVA: 0x000D56EC File Offset: 0x000D38EC
+	private static void CF_5d0e1871390df1f22a8d0fdcf0c92596fd89996f_Corpsefuscated(float CF_52b13c7d02351041c904b8977e014afa99c79a3c_Corpsefuscated, int CF_48b0e9883a844c8db32ca237e77594be4ed59a0c_Corpsefuscated, string CF_2d3094134b394c6c408babef6590d3990cc04202_Corpsefuscated, int CF_6209e42bbf9a2e4a790973ffed438e90985a098f_Corpsefuscated, object CF_79a432c7f279e24ede722cfb8a902d10d51ed496_Corpsefuscated)
+	{
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_69466757c07a8f751ac06a7ae15dfb91481bce3b_Corpsefuscated != CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_83543df07c229a44d8a2b9eb6e111607ea7d1094_Corpsefuscated)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_0ddc414300ff72299f0fd2dd4c13a397255297df_Corpsefuscated = 60.5f;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated = CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a72023d9b5c5ea93042ebdff39f6a2a319b88c38_Corpsefuscated - CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_4e95944047cf73e9d20b1f9586bbc660376f74cd_Corpsefuscated;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_f1cae4ef29145ee5558a7091df3abacce186cb7c_Corpsefuscated = 147.75f;
+		}
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated = 16.25f;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_f1cae4ef29145ee5558a7091df3abacce186cb7c_Corpsefuscated = -10.25f;
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_f1cae4ef29145ee5558a7091df3abacce186cb7c_Corpsefuscated < 63f)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a61618f7467a71449ca1e86cc7da3166d5170df1_Corpsefuscated = -20.75f;
+		}
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_cf1e7e569f06981e24a8996808a0cf403e590717_Corpsefuscated = -24f;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated = 125.25f;
+	}
+
+	// Token: 0x06001372 RID: 4978 RVA: 0x000D5770 File Offset: 0x000D3970
+	private static void CF_9ab3555b4e91dbe751fa7b8f383c655fd8916a70_Corpsefuscated(float CF_1ae09d49d2590f0b0d034a7bec2388053547b3c3_Corpsefuscated, float CF_09d6e10510b3c08bf480c424451d27a64922ab92_Corpsefuscated, float CF_64251e3c0a22dcdd8ebc390389576710a657ee6c_Corpsefuscated, Transform CF_108beb0cc79e55bdb28bcf221a9ff10502c3c237_Corpsefuscated, Vector3 CF_a89432893159befc1a818366a39c951d6490f4ff_Corpsefuscated)
+	{
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated >= 90.75f)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a61618f7467a71449ca1e86cc7da3166d5170df1_Corpsefuscated = 31.25f;
+		}
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_0ddc414300ff72299f0fd2dd4c13a397255297df_Corpsefuscated = 23f - CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_debcc4d2d5e592407fbd60266829f97a0235401b_Corpsefuscated;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_48dd234b40b2f0ce4c15305d1eb414f00aa14b2c_Corpsefuscated = CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a38bccb8cbf61e616bb71ac6aefc8b147000d75e_Corpsefuscated + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a72023d9b5c5ea93042ebdff39f6a2a319b88c38_Corpsefuscated;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a38bccb8cbf61e616bb71ac6aefc8b147000d75e_Corpsefuscated = CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_69466757c07a8f751ac06a7ae15dfb91481bce3b_Corpsefuscated + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_69466757c07a8f751ac06a7ae15dfb91481bce3b_Corpsefuscated;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_63e4b14e7165eacd264ad34c2f63ebfd1b2644ab_Corpsefuscated = -26f;
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_5cc4f256020b856ace08c7dcff703cbe40b92c70_Corpsefuscated <= CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_084a41be79908cdcf62a408074f1a1c0459c8aa2_Corpsefuscated)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_bdb40d6f20e917dacddd45827b1bab729960901d_Corpsefuscated = 37f + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_0ddc414300ff72299f0fd2dd4c13a397255297df_Corpsefuscated;
+		}
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_debcc4d2d5e592407fbd60266829f97a0235401b_Corpsefuscated = 153f;
+	}
+
+	// Token: 0x06001373 RID: 4979 RVA: 0x000D57FC File Offset: 0x000D39FC
+	private static void CF_7b7954d07a4ecb35ece85bf530d23aea85ddca1c_Corpsefuscated(double CF_e652c70d884d06790f7c9071401634b11590c071_Corpsefuscated, double CF_b3140345db68a163746fb934340d80a34e7d6e6e_Corpsefuscated, Quaternion CF_82a4d75912d00d77e60612e61dd18e624fcbc5c6_Corpsefuscated, float CF_9865c911622d973328085831614c6ece25f7f93f_Corpsefuscated, Quaternion CF_742754d16d20a8d63bda39afa65d96d78ddc521d_Corpsefuscated)
+	{
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_084a41be79908cdcf62a408074f1a1c0459c8aa2_Corpsefuscated = -1f;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_63e4b14e7165eacd264ad34c2f63ebfd1b2644ab_Corpsefuscated = 147.25f;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_83543df07c229a44d8a2b9eb6e111607ea7d1094_Corpsefuscated = 46f - CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_cf1e7e569f06981e24a8996808a0cf403e590717_Corpsefuscated;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated = 97.5f + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_f1cae4ef29145ee5558a7091df3abacce186cb7c_Corpsefuscated = CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_cf1e7e569f06981e24a8996808a0cf403e590717_Corpsefuscated + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_4e95944047cf73e9d20b1f9586bbc660376f74cd_Corpsefuscated;
+	}
+
+	// Token: 0x06001374 RID: 4980 RVA: 0x000D5850 File Offset: 0x000D3A50
+	private static void CF_0a914afc48b1d61e6d5007f86812989f7af9d451_Corpsefuscated(string CF_c76851b49c7e36cfa2caf4831e898410d97e81c3_Corpsefuscated, string CF_7cca358f34f0dba5c799b5a7578dc528c5bcb11d_Corpsefuscated, GameObject CF_e09f82226e0fa16749db56b4f19b63f81a233a69_Corpsefuscated, float CF_c7de233357111f7c92b12f1b1f6b14d9fea23e3a_Corpsefuscated, Transform CF_3f5fd5b45797211e49366df89a1803bf6d43fc7d_Corpsefuscated)
+	{
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_5cc4f256020b856ace08c7dcff703cbe40b92c70_Corpsefuscated > CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a72023d9b5c5ea93042ebdff39f6a2a319b88c38_Corpsefuscated)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_4e95944047cf73e9d20b1f9586bbc660376f74cd_Corpsefuscated = 159f;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_48dd234b40b2f0ce4c15305d1eb414f00aa14b2c_Corpsefuscated = 29f + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_50aa71b8917c59743669babf63e7a385c28bb038_Corpsefuscated;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_83543df07c229a44d8a2b9eb6e111607ea7d1094_Corpsefuscated = -25.75f;
+		}
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_0ddc414300ff72299f0fd2dd4c13a397255297df_Corpsefuscated <= CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_cf1e7e569f06981e24a8996808a0cf403e590717_Corpsefuscated)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated = 3.25f + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_63e4b14e7165eacd264ad34c2f63ebfd1b2644ab_Corpsefuscated;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_83543df07c229a44d8a2b9eb6e111607ea7d1094_Corpsefuscated = 52.5f;
+		}
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated == 64f)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated = CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_debcc4d2d5e592407fbd60266829f97a0235401b_Corpsefuscated;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_bdb40d6f20e917dacddd45827b1bab729960901d_Corpsefuscated = 93f;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated -= CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_83543df07c229a44d8a2b9eb6e111607ea7d1094_Corpsefuscated;
+		}
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_084a41be79908cdcf62a408074f1a1c0459c8aa2_Corpsefuscated = 25f + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_13b1928a2000174837b1c7f7ae6557ef5b433cd3_Corpsefuscated;
+	}
+
+	// Token: 0x06001375 RID: 4981 RVA: 0x000D5904 File Offset: 0x000D3B04
+	private static void CF_fac1ec1caf33d17006fe08ac4245610317964c3a_Corpsefuscated(string CF_10d05ea8b487916e527ebbf66c62d165fc2ba8e1_Corpsefuscated, string CF_dcf3517310822ad9c5acaa31c432e885dee45089_Corpsefuscated, Transform CF_68453b73c9f565934026791295eaddddfd6e9815_Corpsefuscated, double CF_f7acba9a5d4c8eb7295b6254f23cc37592364e7c_Corpsefuscated, Vector2 CF_467598babfb820dfdba03418b3666b21f721f4c4_Corpsefuscated)
+	{
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a38bccb8cbf61e616bb71ac6aefc8b147000d75e_Corpsefuscated = 82f;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_f1cae4ef29145ee5558a7091df3abacce186cb7c_Corpsefuscated = 74f;
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a38bccb8cbf61e616bb71ac6aefc8b147000d75e_Corpsefuscated != 49f)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_bdb40d6f20e917dacddd45827b1bab729960901d_Corpsefuscated = CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_f1cae4ef29145ee5558a7091df3abacce186cb7c_Corpsefuscated + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_bdb40d6f20e917dacddd45827b1bab729960901d_Corpsefuscated;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_83543df07c229a44d8a2b9eb6e111607ea7d1094_Corpsefuscated = 192.25f;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_b01ea091cc36d7c04b84b01a3a6149c2ac806e40_Corpsefuscated = 6.75f;
+		}
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_50aa71b8917c59743669babf63e7a385c28bb038_Corpsefuscated >= CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_cf1e7e569f06981e24a8996808a0cf403e590717_Corpsefuscated)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated = -1.25f;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated = 38f - CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated;
+		}
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_13b1928a2000174837b1c7f7ae6557ef5b433cd3_Corpsefuscated = 18f - CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated;
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_69466757c07a8f751ac06a7ae15dfb91481bce3b_Corpsefuscated < 99f)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated = CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_48dd234b40b2f0ce4c15305d1eb414f00aa14b2c_Corpsefuscated - CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated;
+		}
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_63e4b14e7165eacd264ad34c2f63ebfd1b2644ab_Corpsefuscated <= CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_bdb40d6f20e917dacddd45827b1bab729960901d_Corpsefuscated)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_69466757c07a8f751ac06a7ae15dfb91481bce3b_Corpsefuscated = 22f + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_48dd234b40b2f0ce4c15305d1eb414f00aa14b2c_Corpsefuscated;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a38bccb8cbf61e616bb71ac6aefc8b147000d75e_Corpsefuscated = 63.5f;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_bdb40d6f20e917dacddd45827b1bab729960901d_Corpsefuscated = -53.25f;
+		}
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a72023d9b5c5ea93042ebdff39f6a2a319b88c38_Corpsefuscated = 1.25f + CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_0ddc414300ff72299f0fd2dd4c13a397255297df_Corpsefuscated;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated = 77f;
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_50aa71b8917c59743669babf63e7a385c28bb038_Corpsefuscated = 46f;
+	}
+
+	// Token: 0x06001376 RID: 4982 RVA: 0x000D5A08 File Offset: 0x000D3C08
+	private static void CF_f1bdd08327f186ee98bfbef743e5effc5c2711dc_Corpsefuscated(string CF_f5c9702cbb3c8eed7390fa6df76e08e1b32d2e86_Corpsefuscated, double CF_94dc9398830860a195426cc893274d73e8cb7ce2_Corpsefuscated, float CF_f8014c623d37514c905001a31030cb5155465a6c_Corpsefuscated, Transform CF_e45ccca860a7d16bb14d8b895691834427ea08ec_Corpsefuscated, Vector2 CF_158e9d92760bd1a5299f47b17d3704b5eb5ca6a6_Corpsefuscated)
+	{
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a61618f7467a71449ca1e86cc7da3166d5170df1_Corpsefuscated < 35f)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_48dd234b40b2f0ce4c15305d1eb414f00aa14b2c_Corpsefuscated = 21f;
+		}
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a61618f7467a71449ca1e86cc7da3166d5170df1_Corpsefuscated != 10f)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated = -14f;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_50aa71b8917c59743669babf63e7a385c28bb038_Corpsefuscated = 129.25f;
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_f1cae4ef29145ee5558a7091df3abacce186cb7c_Corpsefuscated = -70f;
+		}
+		CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_cf1e7e569f06981e24a8996808a0cf403e590717_Corpsefuscated = 91f - CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_cf1e7e569f06981e24a8996808a0cf403e590717_Corpsefuscated;
+		if (CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_50aa71b8917c59743669babf63e7a385c28bb038_Corpsefuscated >= CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_a61618f7467a71449ca1e86cc7da3166d5170df1_Corpsefuscated)
+		{
+			CF_6bd2a741ac65f78bb050ac77a1b36883557fce71_Corpsefuscated.CF_69466757c07a8f751ac06a7ae15dfb91481bce3b_Corpsefuscated = 114f;
+		}
+	}
+
+	// Token: 0x06001377 RID: 4983 RVA: 0x000D5A84 File Offset: 0x000D3C84
+	public void Reset()
+	{
+		if (this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated)
+		{
+			this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated.SetActive(false);
+		}
+		if (this.CF_7ee6f4053724dd856b89c582ef9ba29df25ecd73_Corpsefuscated != null)
+		{
+			foreach (GameObject gameObject in this.CF_7ee6f4053724dd856b89c582ef9ba29df25ecd73_Corpsefuscated)
+			{
+				gameObject.SetActive(true);
+			}
+		}
+		if (this.CF_8d1f26e4117e7c7a8710c4808a69da816db0fe8c_Corpsefuscated != null)
+		{
+			foreach (GameObject gameObject2 in this.CF_8d1f26e4117e7c7a8710c4808a69da816db0fe8c_Corpsefuscated)
+			{
+				gameObject2.SetActive(true);
+			}
+		}
+		if (this.CF_7444b876bc8b34276e8c7a159336a966d88a6e0f_Corpsefuscated != null)
+		{
+			foreach (GameObject gameObject3 in this.CF_7444b876bc8b34276e8c7a159336a966d88a6e0f_Corpsefuscated)
+			{
+				gameObject3.SetActive(true);
+			}
+		}
+		if (this.CF_bf6d2ae9464c748ac8ab9bf40a094a304b85cd01_Corpsefuscated != null)
+		{
+			foreach (GameObject gameObject4 in this.CF_bf6d2ae9464c748ac8ab9bf40a094a304b85cd01_Corpsefuscated)
+			{
+				gameObject4.SetActive(true);
+			}
+		}
+		if (this.CF_087b0a457aac081178dbe1e0c84db261d12b4c57_Corpsefuscated != null)
+		{
+			foreach (GameObject gameObject5 in this.CF_087b0a457aac081178dbe1e0c84db261d12b4c57_Corpsefuscated)
+			{
+				gameObject5.SetActive(true);
+			}
+		}
+		if (this.CF_1451e2b6c4e3b40dfe3a450f58a56ac52a416927_Corpsefuscated != null)
+		{
+			foreach (GameObject gameObject6 in this.CF_1451e2b6c4e3b40dfe3a450f58a56ac52a416927_Corpsefuscated)
+			{
+				gameObject6.SetActive(true);
+			}
+		}
+		if (this.CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated != null)
+		{
+			foreach (GameObject gameObject7 in this.CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated)
+			{
+				gameObject7.SetActive(true);
+			}
+		}
+		if (this.CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated != null)
+		{
+			foreach (GameObject gameObject8 in this.CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated)
+			{
+				gameObject8.SetActive(true);
+			}
+		}
+		if (this.CF_c8a60deb5dacfc80b2c50e55f8383a1a555dbe6e_Corpsefuscated != null)
+		{
+			foreach (Collider collider in this.CF_c8a60deb5dacfc80b2c50e55f8383a1a555dbe6e_Corpsefuscated)
+			{
+				if (collider != null)
+				{
+					collider.enabled = true;
+				}
+			}
+		}
+		if (this.CF_aa46a553df3cc90444ac405befa9549481b592d7_Corpsefuscated != null)
+		{
+			foreach (Collider collider2 in this.CF_aa46a553df3cc90444ac405befa9549481b592d7_Corpsefuscated)
+			{
+				if (collider2 != null)
+				{
+					collider2.enabled = true;
+				}
+			}
+		}
+		if (this.CF_80140f3e366043c674158fa537f4832323799e5b_Corpsefuscated != null)
+		{
+			foreach (GameObject gameObject9 in this.CF_80140f3e366043c674158fa537f4832323799e5b_Corpsefuscated)
+			{
+				gameObject9.SetActive(true);
+			}
+		}
+		if (this.CF_79f818cbf1c4d416f010bf0853967e54d38bcd06_Corpsefuscated != null)
+		{
+			foreach (GameObject gameObject10 in this.CF_79f818cbf1c4d416f010bf0853967e54d38bcd06_Corpsefuscated)
+			{
+				gameObject10.SetActive(true);
+			}
+		}
+		if (this.CF_11926ee74d66ee37267d9566b869a8f552645269_Corpsefuscated != null)
+		{
+			this.CF_11926ee74d66ee37267d9566b869a8f552645269_Corpsefuscated.SetActive(true);
+		}
+		if (this.CF_928c51d6511d41bf35ce2ac5b71f800fe4a74fe4_Corpsefuscated != null)
+		{
+			foreach (GameObject gameObject11 in this.CF_928c51d6511d41bf35ce2ac5b71f800fe4a74fe4_Corpsefuscated)
+			{
+				gameObject11.SetActive(true);
+			}
+		}
+		if (this.collider)
+		{
+			this.collider.enabled = true;
+		}
+		if (this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated != null)
+		{
+			foreach (CF_73ac86412ae9fadbbe7ee2839ee6dbd77cbd11fe_Corpsefuscated cf_73ac86412ae9fadbbe7ee2839ee6dbd77cbd11fe_Corpsefuscated in this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated)
+			{
+				if (cf_73ac86412ae9fadbbe7ee2839ee6dbd77cbd11fe_Corpsefuscated)
+				{
+					cf_73ac86412ae9fadbbe7ee2839ee6dbd77cbd11fe_Corpsefuscated.gameObject.SetActive(false);
+				}
+			}
+		}
+		if (this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated != null)
+		{
+			foreach (CF_661d8b0c83e4eeefbceb6649543852117ff78d38_Corpsefuscated cf_661d8b0c83e4eeefbceb6649543852117ff78d38_Corpsefuscated in this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated)
+			{
+				if (cf_661d8b0c83e4eeefbceb6649543852117ff78d38_Corpsefuscated)
+				{
+					cf_661d8b0c83e4eeefbceb6649543852117ff78d38_Corpsefuscated.gameObject.SetActive(false);
+				}
+			}
+		}
+		this.CF_69122001308b0a099a4dc181079201ca40c8f77b_Corpsefuscated = 0;
+		this.CF_aad4a8d970831b0e29707f1b2c598c93901d83ef_Corpsefuscated = 0f;
+		this.CF_9311a09fc83b741d0cba7943884c1430c4dc92a7_Corpsefuscated = 0f;
+		this.CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated = 0f;
+		this.CF_481ee787c01304aed16580fe2a662cd53f29f587_Corpsefuscated = 0f;
+		this.CF_f96abee21c573bb7938ec0dcc1b13bdae925bafd_Corpsefuscated = false;
+		this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated = 0;
+		this.CF_78dde0631c8ac0c39be581bb201739bc2e1ea8e5_Corpsefuscated = false;
+		this.CF_413f9ab6711a7e6e46055dcce86d393313ee167d_Corpsefuscated = false;
+		this.CF_a4d4b9a9bd33322103a438f669b4ca4b3bf67a51_Corpsefuscated = false;
+		this.CF_9440eab0b97147fb457f4aef5196f79ed8ed99e1_Corpsefuscated = -1;
+		this.id = -1;
+		this.CF_5679ed6ea2a561f4901dafc98630daaa3a34ba94_Corpsefuscated = 0;
+		this.CF_c951910cf38e1ee3d90b0b1e9689895cc74a3033_Corpsefuscated = 0f;
+		this.CF_4238387bef130d432afe34ab3fff0cc5557827ef_Corpsefuscated = Vector3.zero;
+		this.CF_240e751d9940107fa0de119e145fcdc79209f26c_Corpsefuscated = 1f;
+		this.CF_522021f35985e3b1719b4d71af9b1c50cdaf7319_Corpsefuscated = false;
+		this.CF_300f2b5381ef57a68e2024ca9a2744ff260aa572_Corpsefuscated = true;
+		this.CF_28bcb2ffd00feb03d6b6c773ad5284d8921e6550_Corpsefuscated = false;
+		this.CF_84ba75c841d14793dd73817e9a4d36315f36d52f_Corpsefuscated = false;
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_18b90c648c7c2f984f356652d3c5f7b595989df2_Corpsefuscated(), 0f);
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetBool(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_8af2314acb6fde794ca7f3eaf31c550e9c761f39_Corpsefuscated(), false);
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_37c30c7dd9abacc92fe36c8f88cbf952e0e1e4fb_Corpsefuscated(), 0f);
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_fa43af82429418ac36568cedff31fc42aa1fdfad_Corpsefuscated(), 0f);
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetBool(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_188b089abe4e55951491044612b8651066927fea_Corpsefuscated(), false);
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_9bc41025ab03bd8f824440c46eeee148a8e021e7_Corpsefuscated(), 0f);
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e0f730caf72b0ac3d8e3c7bc990c0dd568034738_Corpsefuscated(), 0f);
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetBool(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_8af2314acb6fde794ca7f3eaf31c550e9c761f39_Corpsefuscated(), false);
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_62de38faae0e20882b209abcf3c8ad1cf26618b6_Corpsefuscated(), 1f);
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_67fb5b515046794dfc62540de5d8b6e371614ee2_Corpsefuscated(), 1f);
+			this.CF_bcaff7554a53bf54bb27ca008571f68626c90f36_Corpsefuscated = 1f;
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.speed = 1f;
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.Play(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_37ebf9b372dcf76ff87942b2409251189f40fd15_Corpsefuscated());
+		}
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.updateRotation = true;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.updatePosition = true;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.speed = this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_80e4f9a79d790caa7c900a01d286e0ac7073cd73_Corpsefuscated;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.angularSpeed = this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.angularSpeed;
+		if (!this.CF_96668f0c701b8780ed76411935cbc9c019e69a1a_Corpsefuscated)
+		{
+			base.gameObject.CF_e45a5bf61e5bb6a2a0eff8c82b9c419f4aa57b0c_Corpsefuscated(LayerMask.NameToLayer(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_78ceddcae9001e9bbe0ca7e2e41fda92553abb74_Corpsefuscated()), LayerMask.NameToLayer("Ragdoll"));
+			base.gameObject.CF_e45a5bf61e5bb6a2a0eff8c82b9c419f4aa57b0c_Corpsefuscated(LayerMask.NameToLayer(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_9ec0d33df2cd10d23c2aae881ab117a6fbc60d4a_Corpsefuscated()), LayerMask.NameToLayer(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_10fe84c4152e1ead74b5941f6267e78ed7336d34_Corpsefuscated()));
+		}
+	}
+
+	// Token: 0x06001378 RID: 4984 RVA: 0x000D6134 File Offset: 0x000D4334
+	public void CF_73b3a2c56d886c82dfee31877354254be2f8cd5e_Corpsefuscated()
+	{
+		this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated = base.GetComponent<CF_3f1e74ee140ab9f0494153f1e02bdef3f07d9615_Corpsefuscated>();
+		if (this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated)
+		{
+			this.CF_96668f0c701b8780ed76411935cbc9c019e69a1a_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_44cd4dfedb7154de8072efae8eac140134956a15_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_233ce15715d98f44acdff22c50876fc01ee6519b_Corpsefuscated());
+			this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_44cd4dfedb7154de8072efae8eac140134956a15_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_75e88f2b290df2b33346dd918ce8a8646c7d764f_Corpsefuscated());
+			if (this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated)
+			{
+				this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated.SetActive(false);
+			}
+			this.CF_0f4a080312fcdbc1a4b23ddb790f52753692c7f8_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_acf2cf08a23df5de4146a1176af5056ba40cd20c_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_408d5d101d7511939cfd4fcb6cb514210e9d6135_Corpsefuscated());
+			this.CF_4e47e3279951e3c6ce28f407b12a32c47db24b1b_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_acf2cf08a23df5de4146a1176af5056ba40cd20c_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_ecdfb59a74f86943c7cb486ef484a9884fc76ecd_Corpsefuscated());
+			this.CF_7ee6f4053724dd856b89c582ef9ba29df25ecd73_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_57dcbf1ea48b01452217038f66299adcd656aaf9_Corpsefuscated());
+			this.CF_8d1f26e4117e7c7a8710c4808a69da816db0fe8c_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_356fa54a83e63b0d35cdd9995b138027fbb6e333_Corpsefuscated());
+			this.CF_7444b876bc8b34276e8c7a159336a966d88a6e0f_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_208813266ea430a6abf380fefe088519d231eba5_Corpsefuscated());
+			this.CF_bf6d2ae9464c748ac8ab9bf40a094a304b85cd01_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_1a78575acc455dc1e30912262e6951a9de72848d_Corpsefuscated());
+			this.CF_087b0a457aac081178dbe1e0c84db261d12b4c57_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_c69343a472d991fa8dbac912b64e5c825e7f6a87_Corpsefuscated());
+			this.CF_1451e2b6c4e3b40dfe3a450f58a56ac52a416927_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_0716fbad0d7619323f4468af88c6703b750cd74f_Corpsefuscated());
+			this.CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_ea416abd46330913fc0f59da5d3368ba57e0f71d_Corpsefuscated());
+			this.CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_9260ff5082a64317bd38430ba43674f6b9840f80_Corpsefuscated());
+			this.CF_80140f3e366043c674158fa537f4832323799e5b_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_686698732874ecfdb7395715816a7174687a2668_Corpsefuscated());
+			this.CF_79f818cbf1c4d416f010bf0853967e54d38bcd06_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_3d607977934f6b923c5cd223fe372b5887c8b095_Corpsefuscated());
+			this.CF_11926ee74d66ee37267d9566b869a8f552645269_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_44cd4dfedb7154de8072efae8eac140134956a15_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_26b7b545fa5c9ab33094ceb0065f07a69f9cddee_Corpsefuscated());
+			this.CF_8052a51f0daadddd7f78d4426df2268dea9b51bd_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_0f030e9f9684a99ba992e623ea5519cb20332420_Corpsefuscated());
+			if (this.CF_8052a51f0daadddd7f78d4426df2268dea9b51bd_Corpsefuscated == null)
+			{
+				this.CF_8052a51f0daadddd7f78d4426df2268dea9b51bd_Corpsefuscated = new GameObject[0];
+			}
+			this.CF_928c51d6511d41bf35ce2ac5b71f800fe4a74fe4_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_74149e34ef067210638d0556e535c6394711f52f_Corpsefuscated());
+			if (this.CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated != null)
+			{
+				this.CF_c8a60deb5dacfc80b2c50e55f8383a1a555dbe6e_Corpsefuscated = new Collider[this.CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated.Length];
+				for (int i = 0; i < this.CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated.Length; i++)
+				{
+					this.CF_c8a60deb5dacfc80b2c50e55f8383a1a555dbe6e_Corpsefuscated[i] = this.CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated[i].GetComponent<Collider>();
+				}
+			}
+			if (this.CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated != null)
+			{
+				this.CF_aa46a553df3cc90444ac405befa9549481b592d7_Corpsefuscated = new Collider[this.CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated.Length];
+				for (int j = 0; j < this.CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated.Length; j++)
+				{
+					this.CF_aa46a553df3cc90444ac405befa9549481b592d7_Corpsefuscated[j] = this.CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated[j].GetComponent<Collider>();
+				}
+			}
+			this.CF_4d38401b15c5785bb110b18e196adc2db746e19d_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_208b9a24bc1e73eb0e9feb4c9d74a68d0028961d_Corpsefuscated());
+			this.CF_ac14ff19cfe7bdbcf92f2fe4a50ed86076ea7049_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_7d4aaaa617d423aece5406905da2653d4842a3ec_Corpsefuscated());
+			this.CF_058aa63b6b676a9f81fad0f7e924aa8fe6eca0e4_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_ba924ce4e06c32aba632cd0a6e085a12b5a426ba_Corpsefuscated());
+			GameObject[] array = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_ad88de10dce2e258395a1acd3ac42e434b9ed68d_Corpsefuscated());
+			if (array != null)
+			{
+				this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated = new CF_73ac86412ae9fadbbe7ee2839ee6dbd77cbd11fe_Corpsefuscated[array.Length];
+				for (int k = 0; k < array.Length; k++)
+				{
+					this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated[k] = array[k].GetComponent<CF_73ac86412ae9fadbbe7ee2839ee6dbd77cbd11fe_Corpsefuscated>();
+				}
+			}
+			this.CF_963476a0fc8aa570f0fb5c5f086931fa230139fe_Corpsefuscated = this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated.CF_7c24a061223ef11b5521df31e0398a1e10492d1e_Corpsefuscated(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_c589ba547be906bd8240e7d2171aeabd1e7f5f1a_Corpsefuscated());
+			if (this.CF_963476a0fc8aa570f0fb5c5f086931fa230139fe_Corpsefuscated != null)
+			{
+				this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated = new CF_661d8b0c83e4eeefbceb6649543852117ff78d38_Corpsefuscated[this.CF_963476a0fc8aa570f0fb5c5f086931fa230139fe_Corpsefuscated.Length];
+				for (int l = 0; l < this.CF_963476a0fc8aa570f0fb5c5f086931fa230139fe_Corpsefuscated.Length; l++)
+				{
+					this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated[l] = this.CF_963476a0fc8aa570f0fb5c5f086931fa230139fe_Corpsefuscated[l].GetComponent<CF_661d8b0c83e4eeefbceb6649543852117ff78d38_Corpsefuscated>();
+				}
+			}
+		}
+	}
+
+	// Token: 0x06001379 RID: 4985 RVA: 0x000D6494 File Offset: 0x000D4694
+	public void CF_6abed59517f9f0de0c1b61aff18ae8ddf01cb608_Corpsefuscated(Dictionary<CF_816d9b75a20c7c4e0072fa3e0280ee65eb5ff1eb_Corpsefuscated, object> CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated, Dictionary<CF_816d9b75a20c7c4e0072fa3e0280ee65eb5ff1eb_Corpsefuscated, object> CF_c130604b335e55e16d2ae151b226c6162e4c40b6_Corpsefuscated, bool CF_5ddd7055d43aff02912a1a2ff1c145372e4feb1a_Corpsefuscated = false)
+	{
+		Dictionary<CF_816d9b75a20c7c4e0072fa3e0280ee65eb5ff1eb_Corpsefuscated, object> dictionary = CF_22019267fe6f2d0cc03f07f62ead6bd6462ad21b_Corpsefuscated.CF_67427109f3828454c545d3eb59552bc501608873_Corpsefuscated(CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_444e035137b6baae8bea61eb6a39482dd3a74454_Corpsefuscated()].ToString(), CF_c130604b335e55e16d2ae151b226c6162e4c40b6_Corpsefuscated);
+		Dictionary<CF_816d9b75a20c7c4e0072fa3e0280ee65eb5ff1eb_Corpsefuscated, object> dictionary2 = (Dictionary<CF_816d9b75a20c7c4e0072fa3e0280ee65eb5ff1eb_Corpsefuscated, object>)CF_c130604b335e55e16d2ae151b226c6162e4c40b6_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_3c7a4e5813b1d1afee1508c628c3407b247e08aa_Corpsefuscated()];
+		this.CF_b06ed61104ed406239fdf44de861da07f02906d2_Corpsefuscated = CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_444e035137b6baae8bea61eb6a39482dd3a74454_Corpsefuscated()].ToString();
+		this.id = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_eae96150bdbc9670cdcd6eda41887a8f2e974946_Corpsefuscated()]);
+		this.CF_96ada46c7135e2822feae59ac0350409a289c495_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_da8b7d3f34001585587e78862a91a105d609e282_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_ef5b155260db0c11d458623d782961a252bb3ec3_Corpsefuscated()]);
+		this.maxHealth = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_72bb3cbac2063f79b8398c6fdb0c7048b3127e7f_Corpsefuscated()]);
+		this.CF_42575b6bd4052ee443334e5373e637fc11c6df39_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_da8b7d3f34001585587e78862a91a105d609e282_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_af46ca667dfe80e6c59dd17ba640237e48ce6236_Corpsefuscated()]);
+		this.CF_57da6cb704cd3db435a349005714a972f3502b5f_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_da8b7d3f34001585587e78862a91a105d609e282_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_bc0b99918df8d01070716883e7ce2c005000c5cc_Corpsefuscated()]);
+		this.CF_78b1babb7e705c1206e5b3409fe8bdbbd7e0e494_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_901d1fc87f547c533f7010c7489d019ae5c76c80_Corpsefuscated()]);
+		this.CF_7160e7fe5c030c9ee9693c7e2d246f1a2bd68c9b_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_d29012861d7c9f1989710c2e49438032dbdd71e1_Corpsefuscated()]);
+		this.CF_32bc43ea745a38e9658f9515bf2a26eff6587c4f_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_d0343843028d2a35d8dabbad40a06e01fb7d8d07_Corpsefuscated()]);
+		this.CF_02cbb823249a81758645491aa57e4ba7b3af5026_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_0fda15c7b1fa80ba1efab7eb4cb402eff34662e9_Corpsefuscated()]);
+		this.CF_2910710b86412be3ee4887edada62ec5c3c7698f_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_1bff4152da4b667ea3a007af102dfe51cc298813_Corpsefuscated()]);
+		this.CF_1972cc13011e69377dad8548d13d8dfe59601ef3_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_85ca5a8e2a8f46e49b5f35dd7e425443f293ca42_Corpsefuscated()]);
+		this.CF_071d8c909c6d4577fc32736f5156364e4d361263_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_afea4daf87825a689b3bedb2c9ea541b243dec69_Corpsefuscated()]);
+		this.CF_f14e363b579753881a7ddc0d416cbe2beebc9233_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_804d57673b5671b445af71d0f5464e5808562b8f_Corpsefuscated()]);
+		this.CF_e6d45fa5546f680820a955d03ab985926134ed1d_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_2a8061f94b457bd7f46878d8acf7ec88ff2843cf_Corpsefuscated()]);
+		this.CF_5679ed6ea2a561f4901dafc98630daaa3a34ba94_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_9fd9214a00024aa49e3e696a58ac1532302308c2_Corpsefuscated()]);
+		this.CF_563b7340b1f953afd116b5f2010c18d3495b61f6_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_cfc04d595087b4c243454a34a018015b3d479435_Corpsefuscated()]);
+		this.CF_85185be73b8778a185ae6b7a1584e69b3a6a01ee_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_8a106fd18d7a5230a660ea1dc75e318506db3c80_Corpsefuscated()]);
+		this.CF_fa3bbb385df87c2d83a9bf8b517aaa4e80bfb681_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_3cf5b2e004a4e54bff47b7e61a5f1603b0a4a2d5_Corpsefuscated()]);
+		this.CF_242f9805724d3a7e4d999a182ece5aeb93016648_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_8844f5f7b8e7b24f9924bd28b74563b778ff23c3_Corpsefuscated()]);
+		this.CF_9440eab0b97147fb457f4aef5196f79ed8ed99e1_Corpsefuscated = -1;
+		if (CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_09ca4fb365ec51596eb97b89aa3e17526bc6417b_Corpsefuscated()))
+		{
+			this.CF_9440eab0b97147fb457f4aef5196f79ed8ed99e1_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_09ca4fb365ec51596eb97b89aa3e17526bc6417b_Corpsefuscated()]);
+		}
+		this.CF_65a1af218dfa8791656121669b2404ae7b168dd6_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_164d9168663c357381bde7a496a88a327d97233c_Corpsefuscated()]);
+		this.CF_ff0d4dc20d7adc76d85ba0d7cc04f07cbd6ba053_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_68285f7bd59ef45e0198c521f5384ea1f6f2ec23_Corpsefuscated()]);
+		this.CF_44a06b92372659b3bb66465f3abd273a5e45e477_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_da8b7d3f34001585587e78862a91a105d609e282_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_f3ca1af894bde4c401f892812a3a834bc9463c11_Corpsefuscated()]);
+		this.CF_73031e4c0377b7006bc26f4e07d54b9fffb12838_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_da8b7d3f34001585587e78862a91a105d609e282_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e716ab45eff3e4fae4e74926ac0f34362057db83_Corpsefuscated()]);
+		if (CF_46370489012c10ebb84d20417354d8a60a2da648_Corpsefuscated.CF_64653f8dc5540d4cdc6fa9347088735941f4512b_Corpsefuscated)
+		{
+			this.CF_cee23f77eef497b7ae17ab48f1c5ca5f9ec2bbf0_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary2[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_13b646e2c248f1a726d5780a3d6399306d6f9753_Corpsefuscated()]);
+			if (this.CF_73031e4c0377b7006bc26f4e07d54b9fffb12838_Corpsefuscated)
+			{
+				this.CF_cee23f77eef497b7ae17ab48f1c5ca5f9ec2bbf0_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary2[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_85b224591e7998880ae30f524a3a82a71cf1fff1_Corpsefuscated()]);
+			}
+		}
+		else
+		{
+			this.CF_cee23f77eef497b7ae17ab48f1c5ca5f9ec2bbf0_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary2[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_c8275d4ada443ccfa314b2a22d8f4b1b3d31308e_Corpsefuscated()]);
+			if (this.CF_73031e4c0377b7006bc26f4e07d54b9fffb12838_Corpsefuscated)
+			{
+				this.CF_cee23f77eef497b7ae17ab48f1c5ca5f9ec2bbf0_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary2[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_f98f5efc686111b730a0651b0f643a67a7bff2c7_Corpsefuscated()]);
+			}
+		}
+		if (dictionary.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_6684b5517481e21b8667078a7b5cab4828ddd2b4_Corpsefuscated()))
+		{
+			this.CF_7d013d391020217fd2b9b24e81f79a30f4786f34_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_6684b5517481e21b8667078a7b5cab4828ddd2b4_Corpsefuscated()]);
+		}
+		if (dictionary.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_ffda4b69ea9c112c53896b8a200963255bc56eda_Corpsefuscated()))
+		{
+			this.CF_8337ec2024351ce75f8a7b88ee9d99e767375994_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_ffda4b69ea9c112c53896b8a200963255bc56eda_Corpsefuscated()]);
+		}
+		if (dictionary.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_8a84e40276ec5031a7a08d91368c7518ef018781_Corpsefuscated()))
+		{
+			this.CF_9efa36b019c819f76805d182e680b07e1d0dd8c3_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_8a84e40276ec5031a7a08d91368c7518ef018781_Corpsefuscated()]);
+		}
+		if (dictionary.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_b3dcd9dcaa3ecea7e064619d0bc81046c2611bd2_Corpsefuscated()))
+		{
+			this.CF_9efa36b019c819f76805d182e680b07e1d0dd8c3_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_b3dcd9dcaa3ecea7e064619d0bc81046c2611bd2_Corpsefuscated()]);
+		}
+		if (dictionary.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_377bcdb3bad5fe64e32bd756572b6abff277cf71_Corpsefuscated()))
+		{
+			this.CF_44adfc2ebfa47c78f8c040e481047b7c746f6bb8_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_377bcdb3bad5fe64e32bd756572b6abff277cf71_Corpsefuscated()]);
+		}
+		if (this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated != null)
+		{
+			foreach (CF_661d8b0c83e4eeefbceb6649543852117ff78d38_Corpsefuscated cf_661d8b0c83e4eeefbceb6649543852117ff78d38_Corpsefuscated in this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated)
+			{
+				if (cf_661d8b0c83e4eeefbceb6649543852117ff78d38_Corpsefuscated)
+				{
+					cf_661d8b0c83e4eeefbceb6649543852117ff78d38_Corpsefuscated.gameObject.SetActive(false);
+				}
+			}
+			if (CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_8866271d3e82a4825f7dfff8847116f6de4091b2_Corpsefuscated()))
+			{
+				int[] array = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_6f77e2ae497d6598f84a063286273e8186369056_Corpsefuscated(CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_8866271d3e82a4825f7dfff8847116f6de4091b2_Corpsefuscated()]);
+				this.CF_4955d22291f972b71d29e7676a9e2b386bb08b0c_Corpsefuscated = new CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated[array.Length];
+				for (int j = 0; j < array.Length; j++)
+				{
+					if (j < this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated.Length && array[j] == 1)
+					{
+						if (this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated[j])
+						{
+							this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated[j].gameObject.SetActive(true);
+						}
+						this.CF_4955d22291f972b71d29e7676a9e2b386bb08b0c_Corpsefuscated[j] = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_fc739d9b850ec93bb13f29998c590231c063f447_Corpsefuscated()]);
+						this.CF_5145b846d4da9e940e4b37b5897cafb04a4f4c6d_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_1968f402b0d8b3888e793e927a0e20753766fcbc_Corpsefuscated()]);
+						this.CF_66ddeebf9801afb13e4db031efcd9aec9d9266d0_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_a80d5bbb7c31191b5b532a6093d92b26faaa0d62_Corpsefuscated()]);
+						this.CF_c0b1afe435c735f0186f226f32fb6d423fb0ef7b_Corpsefuscated = dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_9085f8dded5a89d664dfbea137fca43465230151_Corpsefuscated()].ToString();
+						this.CF_6a86ce12ed39db6b2420d271562f6824eed14d6e_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_bddf28542cad2e89143c76a460996a1879cd0692_Corpsefuscated()]);
+						this.CF_2b75264cdbc3930e0b541e9ae34a1cdca235fa1c_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_3f927b718332c5092007a3487efa2c0886bed6ab_Corpsefuscated()]);
+						this.CF_70d3a884325eeb3c1e10ad0a04473ac961d4b1a1_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_7f43cfeb362aed09e92d0b3b6e464da7657c1bb3_Corpsefuscated()]);
+						this.CF_3ded381e07b598326308543ee5bc7a19013d7a3a_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_51d860ffdfb6902bf4df8aa7339743bc488d808f_Corpsefuscated()]);
+					}
+				}
+			}
+		}
+		this.CF_28bcb2ffd00feb03d6b6c773ad5284d8921e6550_Corpsefuscated = false;
+		if (this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated != null)
+		{
+			foreach (CF_73ac86412ae9fadbbe7ee2839ee6dbd77cbd11fe_Corpsefuscated cf_73ac86412ae9fadbbe7ee2839ee6dbd77cbd11fe_Corpsefuscated in this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated)
+			{
+				if (cf_73ac86412ae9fadbbe7ee2839ee6dbd77cbd11fe_Corpsefuscated)
+				{
+					cf_73ac86412ae9fadbbe7ee2839ee6dbd77cbd11fe_Corpsefuscated.gameObject.SetActive(false);
+				}
+			}
+			if (CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_5a178492d4c6b60993f1efd200e35915fe9bc74d_Corpsefuscated()))
+			{
+				int[] array2 = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_6f77e2ae497d6598f84a063286273e8186369056_Corpsefuscated(CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_5a178492d4c6b60993f1efd200e35915fe9bc74d_Corpsefuscated()]);
+				for (int l = 0; l < array2.Length; l++)
+				{
+					if (l < this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated.Length && array2[l] == 1 && this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated[l])
+					{
+						if (this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated[l])
+						{
+							this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated[l].gameObject.SetActive(true);
+						}
+						this.CF_28bcb2ffd00feb03d6b6c773ad5284d8921e6550_Corpsefuscated = true;
+					}
+				}
+			}
+		}
+		if (this.CF_28bcb2ffd00feb03d6b6c773ad5284d8921e6550_Corpsefuscated)
+		{
+			this.CF_31b3968d758f09174ce10c879e7c8ca4b8829891_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_d5f962623d552cfdab87f1254a5f3cbdc7207139_Corpsefuscated()]);
+			this.CF_520e9a5be2c41895688a62b28589d56eb205be97_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_42bbc8f50b3a14f6fbf3d06a31dc3b7da6a37369_Corpsefuscated()]);
+			this.CF_2064c98879257133ecdbde85abf676a84b1c036c_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_ae45828c821d71ed49290b397a2d585685156565_Corpsefuscated()]);
+		}
+		if (this.CF_9440eab0b97147fb457f4aef5196f79ed8ed99e1_Corpsefuscated == 999)
+		{
+			this.CF_9440eab0b97147fb457f4aef5196f79ed8ed99e1_Corpsefuscated = CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(1000, 9999);
+		}
+		if (CF_38a25cb55d6b4ae40c0789c2853d503398332fb8_Corpsefuscated.CF_bebfe0414fc98b41a2e0d4926c346a7013510542_Corpsefuscated)
+		{
+			this.CF_5679ed6ea2a561f4901dafc98630daaa3a34ba94_Corpsefuscated = Mathf.RoundToInt(CF_38a25cb55d6b4ae40c0789c2853d503398332fb8_Corpsefuscated.CF_a2806a346d5023adf8f2b281dc5a63f9b00ee348_Corpsefuscated * (float)this.CF_5679ed6ea2a561f4901dafc98630daaa3a34ba94_Corpsefuscated);
+		}
+		CF_90c80dec58d27d4762f6219703abc736d1a70785_Corpsefuscated component = base.GetComponent<CF_90c80dec58d27d4762f6219703abc736d1a70785_Corpsefuscated>();
+		if (component)
+		{
+			component.screenShake = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_a3c112da0d9069825fb1fefce2433158905a9400_Corpsefuscated()]);
+			component.screenShakeDuration = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_0e5ff2936f7382c8a3162c1c555a6b62b1c11350_Corpsefuscated()]);
+		}
+		this.CF_6c4421be9ff45f39ac9ce2cacf98ad8f5d199f51_Corpsefuscated = CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_7ef903375a41501c32167b8a3610023f98f814d0_Corpsefuscated(dictionary[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_6cb6244ff60cfa88e6aadf12ef570099d1b3771e_Corpsefuscated()]);
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_62de38faae0e20882b209abcf3c8ad1cf26618b6_Corpsefuscated(), this.CF_78b1babb7e705c1206e5b3409fe8bdbbd7e0e494_Corpsefuscated);
+		}
+		this.CF_da61e578457a58b1859912567283ae1f00ac22ad_Corpsefuscated();
+		if (CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_3f21e1d20ac5a287abe4776c5b0eb3a95cf0b3ac_Corpsefuscated()) && CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_3f21e1d20ac5a287abe4776c5b0eb3a95cf0b3ac_Corpsefuscated()]) == 1)
+		{
+			this.CF_346d86053951ac7131a04c6642bf8dbc9b9be801_Corpsefuscated = 99999f;
+		}
+		if (CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_7c0eca2002239dc4e95745851ba2a2eb041d19ee_Corpsefuscated()) && CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_7c0eca2002239dc4e95745851ba2a2eb041d19ee_Corpsefuscated()]) == 1)
+		{
+			this.CF_dc0c3983c8d561f9f616be9ed5b73d5d071c6c63_Corpsefuscated = 99999f;
+		}
+		if (CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e587b20ca14cccf58af78411f27ad4a6072a069b_Corpsefuscated()) && CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e587b20ca14cccf58af78411f27ad4a6072a069b_Corpsefuscated()]) == 0)
+		{
+			this.CF_4b63c66d85bb11a8054e42bb2de1fa024bfb50b6_Corpsefuscated = 0f;
+		}
+		if (CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_d03787307daf5bc8122b8af95884f5df39752c93_Corpsefuscated()) && CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_d03787307daf5bc8122b8af95884f5df39752c93_Corpsefuscated()]) == 0)
+		{
+			this.CF_a7c7b0a17f95a228806ab9788b72bb071595f37c_Corpsefuscated = 0f;
+		}
+		if (CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_20ef27f9d6302c8eb9cd84d5f5bdafcb1ab18744_Corpsefuscated()) && CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_20ef27f9d6302c8eb9cd84d5f5bdafcb1ab18744_Corpsefuscated()]) == 0)
+		{
+			this.CF_dc0c3983c8d561f9f616be9ed5b73d5d071c6c63_Corpsefuscated = 0f;
+		}
+		if (CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e727e0bb827f7a3dfba1f3ca0f9f05370f045608_Corpsefuscated()) && CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e727e0bb827f7a3dfba1f3ca0f9f05370f045608_Corpsefuscated()]) == 0)
+		{
+			this.CF_346d86053951ac7131a04c6642bf8dbc9b9be801_Corpsefuscated = 0f;
+		}
+		if (!this.CF_96ada46c7135e2822feae59ac0350409a289c495_Corpsefuscated)
+		{
+			this.CF_4b63c66d85bb11a8054e42bb2de1fa024bfb50b6_Corpsefuscated = 99999f;
+			this.CF_a7c7b0a17f95a228806ab9788b72bb071595f37c_Corpsefuscated = 99999f;
+		}
+		this.CF_5dc59f9c0d3c43d805a26e0d269118278878efb1_Corpsefuscated();
+		if (!CF_5ddd7055d43aff02912a1a2ff1c145372e4feb1a_Corpsefuscated)
+		{
+			CF_db8e632c1a066b52258b3f174b79afbde5d1d44c_Corpsefuscated component2 = base.GetComponent<CF_db8e632c1a066b52258b3f174b79afbde5d1d44c_Corpsefuscated>();
+			if (CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated.ContainsKey(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e7f61199792f10c5ac4aa2cd5d304b865087f54f_Corpsefuscated()) && CF_99bc5402829b93cb6d74099424219ef0b1541d3e_Corpsefuscated.CF_b813daa2b7fc0114f205f853e7e04c1299363ff8_Corpsefuscated(CF_0a1e5f290b65d086aa24c00b784f2c14e2a2d9ce_Corpsefuscated[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e7f61199792f10c5ac4aa2cd5d304b865087f54f_Corpsefuscated()]) > 0)
+			{
+				this.CF_c8d5fc7241d93c00dba1237c6886c9961194e419_Corpsefuscated(1, true, false);
+				this.CF_da61e578457a58b1859912567283ae1f00ac22ad_Corpsefuscated();
+				if (component2)
+				{
+					component2.enabled = true;
+				}
+			}
+			else if (component2)
+			{
+				component2.enabled = false;
+			}
+		}
+	}
+
+	// Token: 0x0600137A RID: 4986 RVA: 0x000D7054 File Offset: 0x000D5254
+	private void Awake()
+	{
+		this.CF_73b3a2c56d886c82dfee31877354254be2f8cd5e_Corpsefuscated();
+		this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated = base.GetComponent<Animator>();
+		this.audioSrc = base.GetComponent<AudioSource>();
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated = base.GetComponent<NavMeshAgent>();
+		this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated = base.GetComponent<CF_02fcff275eacc879e279a81799fb6c5c9f4ce43e_Corpsefuscated>();
+		this.CF_0fedc6ee052ac82d6d33b3a305e24863d905d37b_Corpsefuscated = base.GetComponent<CF_0abb688c000c71fd1ce00b2b32eed33b0d7cf1b8_Corpsefuscated>();
+		this.CF_2221218179ff500a6bc4011ffdeaf1fcd7d044b2_Corpsefuscated = base.GetComponent<CF_db84cd72cb83d9a0a7203397922ef735ebeeedee_Corpsefuscated>();
+		this.collider = base.GetComponent<Collider>();
+	}
+
+	// Token: 0x0600137B RID: 4987 RVA: 0x000D70BC File Offset: 0x000D52BC
+	private void CF_da61e578457a58b1859912567283ae1f00ac22ad_Corpsefuscated()
+	{
+		this.health = this.maxHealth;
+		this.CF_346d86053951ac7131a04c6642bf8dbc9b9be801_Corpsefuscated = this.health * this.CF_f14e363b579753881a7ddc0d416cbe2beebc9233_Corpsefuscated;
+		this.CF_dc0c3983c8d561f9f616be9ed5b73d5d071c6c63_Corpsefuscated = this.health * this.CF_f14e363b579753881a7ddc0d416cbe2beebc9233_Corpsefuscated;
+		this.CF_a7c7b0a17f95a228806ab9788b72bb071595f37c_Corpsefuscated = this.health * this.CF_e6d45fa5546f680820a955d03ab985926134ed1d_Corpsefuscated;
+		this.CF_4b63c66d85bb11a8054e42bb2de1fa024bfb50b6_Corpsefuscated = this.health * this.CF_e6d45fa5546f680820a955d03ab985926134ed1d_Corpsefuscated;
+	}
+
+	// Token: 0x0600137C RID: 4988 RVA: 0x000D7160 File Offset: 0x000D5360
+	public void CF_766593c193b64e916b56fe8080b582f75bc76eb7_Corpsefuscated()
+	{
+		if (this.health > this.maxHealth)
+		{
+			this.health = this.maxHealth;
+		}
+		if (this.CF_346d86053951ac7131a04c6642bf8dbc9b9be801_Corpsefuscated > this.maxHealth * this.CF_f14e363b579753881a7ddc0d416cbe2beebc9233_Corpsefuscated)
+		{
+			this.CF_346d86053951ac7131a04c6642bf8dbc9b9be801_Corpsefuscated = this.maxHealth * this.CF_f14e363b579753881a7ddc0d416cbe2beebc9233_Corpsefuscated;
+		}
+		if (this.CF_dc0c3983c8d561f9f616be9ed5b73d5d071c6c63_Corpsefuscated > this.maxHealth * this.CF_f14e363b579753881a7ddc0d416cbe2beebc9233_Corpsefuscated)
+		{
+			this.CF_dc0c3983c8d561f9f616be9ed5b73d5d071c6c63_Corpsefuscated = this.maxHealth * this.CF_f14e363b579753881a7ddc0d416cbe2beebc9233_Corpsefuscated;
+		}
+		if (this.CF_a7c7b0a17f95a228806ab9788b72bb071595f37c_Corpsefuscated > this.maxHealth * this.CF_e6d45fa5546f680820a955d03ab985926134ed1d_Corpsefuscated)
+		{
+			this.CF_a7c7b0a17f95a228806ab9788b72bb071595f37c_Corpsefuscated = this.maxHealth * this.CF_e6d45fa5546f680820a955d03ab985926134ed1d_Corpsefuscated;
+		}
+		if (this.CF_4b63c66d85bb11a8054e42bb2de1fa024bfb50b6_Corpsefuscated > this.maxHealth * this.CF_e6d45fa5546f680820a955d03ab985926134ed1d_Corpsefuscated)
+		{
+			this.CF_4b63c66d85bb11a8054e42bb2de1fa024bfb50b6_Corpsefuscated = this.maxHealth * this.CF_e6d45fa5546f680820a955d03ab985926134ed1d_Corpsefuscated;
+		}
+	}
+
+	// Token: 0x0600137D RID: 4989 RVA: 0x000135CA File Offset: 0x000117CA
+	private void OnEnable()
+	{
+		this.Reset();
+		base.StartCoroutine(this.CF_c0f9777e4c2a8f04475af4d1be5d4d8b2351b81f_Corpsefuscated());
+	}
+
+	// Token: 0x0600137E RID: 4990 RVA: 0x000D72C8 File Offset: 0x000D54C8
+	private void OnDisable()
+	{
+		this.Reset();
+		CF_22019267fe6f2d0cc03f07f62ead6bd6462ad21b_Corpsefuscated.CF_0d9ce272b0ed78b16fa5106fefb1655a003889d5_Corpsefuscated.Remove(base.gameObject.name);
+		CF_22019267fe6f2d0cc03f07f62ead6bd6462ad21b_Corpsefuscated.CF_db2d8bf1d7ad29ae13e2d60f9c32ae52cdb69086_Corpsefuscated.Remove(base.gameObject.name);
+		CF_22019267fe6f2d0cc03f07f62ead6bd6462ad21b_Corpsefuscated.CF_e37db25ed91827873da31d5600a7ff5338b277f7_Corpsefuscated.Remove(base.gameObject.name);
+		CF_22019267fe6f2d0cc03f07f62ead6bd6462ad21b_Corpsefuscated.CF_f8e4ce0e08498a0e942ee3433d970da8df93257b_Corpsefuscated.Remove(base.gameObject.name);
+		CF_22019267fe6f2d0cc03f07f62ead6bd6462ad21b_Corpsefuscated.CF_f7d101af757ef1537ee839edd57f80226ce1df59_Corpsefuscated.Remove(base.gameObject.name);
+	}
+
+	// Token: 0x0600137F RID: 4991 RVA: 0x000D734C File Offset: 0x000D554C
+	public void Update()
+	{
+		this.CF_4e4e7b5a8caba30a3aeb06ecb617470512d8f9a5_Corpsefuscated();
+		if (DMOD.NAURA_Friendly)
+		{
+			this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated = 1;
+		}
+		if (DMOD.NAURA_1HIT)
+		{
+			this.health = 0.1f;
+		}
+		if (DMOD.NAURA_RespawnZombies)
+		{
+			this.health = this.CF_563b7340b1f953afd116b5f2010c18d3495b61f6_Corpsefuscated;
+		}
+		if (DMOD.NAURA_KillZombies)
+		{
+			this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated = 4;
+		}
+		if (Input.GetKeyDown(KeyCode.F1))
+		{
+			this.health = this.maxHealth;
+		}
+	}
+
+	// Token: 0x06001380 RID: 4992 RVA: 0x000D73C8 File Offset: 0x000D55C8
+	public void LateUpdate()
+	{
+		if (!base.gameObject.activeSelf)
+		{
+			return;
+		}
+		this.CF_59dde81408aafacb5165bc8020784f863c5a4a81_Corpsefuscated();
+		this.CF_a56185e6d0696c1a8e5a70a795078ef9a978d904_Corpsefuscated();
+		this.CF_c5ce4942f43366adb2c38d8e636ef81f637f4ccd_Corpsefuscated();
+		if (this.CF_78dde0631c8ac0c39be581bb201739bc2e1ea8e5_Corpsefuscated)
+		{
+			this.CF_9311a09fc83b741d0cba7943884c1430c4dc92a7_Corpsefuscated += Time.deltaTime;
+			if (this.CF_9311a09fc83b741d0cba7943884c1430c4dc92a7_Corpsefuscated >= 6f)
+			{
+				this.CF_78dde0631c8ac0c39be581bb201739bc2e1ea8e5_Corpsefuscated = false;
+			}
+		}
+		if (!this.CF_96ada46c7135e2822feae59ac0350409a289c495_Corpsefuscated)
+		{
+			this.CF_4b63c66d85bb11a8054e42bb2de1fa024bfb50b6_Corpsefuscated = 99999f;
+			this.CF_a7c7b0a17f95a228806ab9788b72bb071595f37c_Corpsefuscated = 99999f;
+		}
+	}
+
+	// Token: 0x06001381 RID: 4993 RVA: 0x000D747C File Offset: 0x000D567C
+	private void CF_4e4e7b5a8caba30a3aeb06ecb617470512d8f9a5_Corpsefuscated()
+	{
+		if (!this.CF_28bcb2ffd00feb03d6b6c773ad5284d8921e6550_Corpsefuscated)
+		{
+			return;
+		}
+		this.CF_84ba75c841d14793dd73817e9a4d36315f36d52f_Corpsefuscated = true;
+		for (int i = 0; i < this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated.Length; i++)
+		{
+			this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated[i].CF_6feed6aa9fd36dcbe723578fad07e7a697acca1f_Corpsefuscated = this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_ed0425dc176772d79d4bdf85df8de6693a68849f_Corpsefuscated(this.CF_31b3968d758f09174ce10c879e7c8ca4b8829891_Corpsefuscated, this.CF_520e9a5be2c41895688a62b28589d56eb205be97_Corpsefuscated, this.CF_2064c98879257133ecdbde85abf676a84b1c036c_Corpsefuscated * (float)i);
+			if (this.CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated[i].CF_1b5be19c3ff81e27388fc0f8c59c9dc6003f7d85_Corpsefuscated < 100f)
+			{
+				this.CF_84ba75c841d14793dd73817e9a4d36315f36d52f_Corpsefuscated = false;
+			}
+		}
+	}
+
+	// Token: 0x06001382 RID: 4994 RVA: 0x000D7530 File Offset: 0x000D5730
+	private void CF_c5ce4942f43366adb2c38d8e636ef81f637f4ccd_Corpsefuscated()
+	{
+		if (this.CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated > 0f)
+		{
+			Vector3 vector = this.CF_4238387bef130d432afe34ab3fff0cc5557827ef_Corpsefuscated * this.CF_b16b3f9a6f821d8609c218ed9c129c5ec3d9745d_Corpsefuscated * (this.CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated / this.CF_481ee787c01304aed16580fe2a662cd53f29f587_Corpsefuscated / this.CF_481ee787c01304aed16580fe2a662cd53f29f587_Corpsefuscated);
+			this.CF_44bd8938196918bfb617a06b2040a47e892f5a1c_Corpsefuscated += Vector3.Distance(base.transform.position, base.transform.position + vector * Time.deltaTime);
+			base.transform.position = base.transform.position + vector * Time.deltaTime;
+		}
+	}
+
+	// Token: 0x06001383 RID: 4995 RVA: 0x000135DF File Offset: 0x000117DF
+	private void CF_7d2cb89468f3e307c4cf82f9fe2aae111d71a2ab_Corpsefuscated(Vector3 direction, float distance)
+	{
+		this.CF_44bd8938196918bfb617a06b2040a47e892f5a1c_Corpsefuscated = 0f;
+		this.CF_4238387bef130d432afe34ab3fff0cc5557827ef_Corpsefuscated = new Vector3(direction.x, 0f, direction.z);
+		this.CF_b16b3f9a6f821d8609c218ed9c129c5ec3d9745d_Corpsefuscated = distance * 2f;
+	}
+
+	// Token: 0x06001384 RID: 4996 RVA: 0x000D75F4 File Offset: 0x000D57F4
+	private IEnumerator CF_c0f9777e4c2a8f04475af4d1be5d4d8b2351b81f_Corpsefuscated()
+	{
+		for (;;)
+		{
+			this.CF_5ad9ace5a272e6cc62d792a12f4ffce886154c8c_Corpsefuscated();
+			yield return new WaitForSeconds(1f);
+		}
+		yield break;
+	}
+
+	// Token: 0x06001385 RID: 4997 RVA: 0x000D7610 File Offset: 0x000D5810
+	private void CF_8114679d3ff1f0c03b92f6b8172aac523aad57cf_Corpsefuscated(GameObject[] CF_6118146d291822bc659642294158f66b40fbd0a9_Corpsefuscated, GameObject[] CF_2e1a92c9fbf04464571723f348ec567701cc3f42_Corpsefuscated, Vector3 CF_ecdac92a7930d8185b60af129fb40536f5b32d48_Corpsefuscated, GameObject[] CF_1946aa5c93580a8c7f784373051f4ce7f7235980_Corpsefuscated, bool CF_882ac25aae0acc16098da6444850b62abb7e9b4f_Corpsefuscated = false)
+	{
+		if (CF_6118146d291822bc659642294158f66b40fbd0a9_Corpsefuscated == null || CF_6118146d291822bc659642294158f66b40fbd0a9_Corpsefuscated.Length == 0)
+		{
+			return;
+		}
+		int num = CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(1, CF_6118146d291822bc659642294158f66b40fbd0a9_Corpsefuscated.Length);
+		if (CF_882ac25aae0acc16098da6444850b62abb7e9b4f_Corpsefuscated)
+		{
+			num = CF_6118146d291822bc659642294158f66b40fbd0a9_Corpsefuscated.Length;
+		}
+		for (int i = 0; i < num; i++)
+		{
+			if (!CF_6118146d291822bc659642294158f66b40fbd0a9_Corpsefuscated[i].activeSelf)
+			{
+				return;
+			}
+			Vector3 vector = CF_2e1a92c9fbf04464571723f348ec567701cc3f42_Corpsefuscated[i].transform.position;
+			Collider component = CF_2e1a92c9fbf04464571723f348ec567701cc3f42_Corpsefuscated[i].GetComponent<Collider>();
+			if (component)
+			{
+				vector = component.bounds.center;
+			}
+			if (CF_1946aa5c93580a8c7f784373051f4ce7f7235980_Corpsefuscated.Length > 0 && CF_53cda8e4b500b989db880c9a25e0236645c30828_Corpsefuscated.settings[CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_7ee0415e649a2cc3d799a62322aef3f460ce4486_Corpsefuscated()] == CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_18fb28ba5ca92dd48dd102d2af120ec04e99604c_Corpsefuscated())
+			{
+				GameObject gameObject = CF_2fa8b1280dc9cac9a27dd8e82389177175700288_Corpsefuscated.Instantiate(CF_1946aa5c93580a8c7f784373051f4ce7f7235980_Corpsefuscated[CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0, CF_1946aa5c93580a8c7f784373051f4ce7f7235980_Corpsefuscated.Length - 1)], vector, Quaternion.identity);
+				gameObject.transform.eulerAngles = new Vector3(gameObject.transform.eulerAngles.x, CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0f, 360f), gameObject.transform.eulerAngles.z);
+			}
+			CF_6118146d291822bc659642294158f66b40fbd0a9_Corpsefuscated[i].SetActive(false);
+			CF_2e1a92c9fbf04464571723f348ec567701cc3f42_Corpsefuscated[i].SetActive(false);
+		}
+	}
+
+	// Token: 0x06001386 RID: 4998 RVA: 0x000D7734 File Offset: 0x000D5934
+	public void CF_f826235a1d1550717548c14e1f75c8bccae35e16_Corpsefuscated()
+	{
+		if (this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated == 3)
+		{
+			return;
+		}
+		if (this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated)
+		{
+			this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated.SetActive(true);
+		}
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.speed = 1f;
+		}
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_67fb5b515046794dfc62540de5d8b6e371614ee2_Corpsefuscated(), 1f);
+		}
+		this.CF_bcaff7554a53bf54bb27ca008571f68626c90f36_Corpsefuscated = 1f;
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetBool(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_8af2314acb6fde794ca7f3eaf31c550e9c761f39_Corpsefuscated(), true);
+		}
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetBool(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_188b089abe4e55951491044612b8651066927fea_Corpsefuscated(), false);
+		}
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.angularSpeed = this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_7475f2c79c7542b872215d038026729937b1a2e3_Corpsefuscated;
+		this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_585e40d781f13f60d17f77dc14844edc81c3ce2b_Corpsefuscated = 10f;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.avoidancePriority = this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_d6b06cdc00b849b483701c554a6abe94efe77ce2_Corpsefuscated;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.updateRotation = true;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.updatePosition = true;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.speed = this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_80e4f9a79d790caa7c900a01d286e0ac7073cd73_Corpsefuscated;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.angularSpeed = this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.angularSpeed;
+		if (this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_a456b05af9f9b637c57354000d716438586aea7f_Corpsefuscated)
+		{
+			this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_a456b05af9f9b637c57354000d716438586aea7f_Corpsefuscated.enabled = true;
+		}
+		this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated = 3;
+		this.CF_78dde0631c8ac0c39be581bb201739bc2e1ea8e5_Corpsefuscated = false;
+	}
+
+	// Token: 0x06001387 RID: 4999 RVA: 0x0001361C File Offset: 0x0001181C
+	public void CF_5dc59f9c0d3c43d805a26e0d269118278878efb1_Corpsefuscated()
+	{
+		this.CF_fdb11ba7c04bae08854d542e4d87ce3562ed63dd_Corpsefuscated(Vector3.zero, false);
+	}
+
+	// Token: 0x06001388 RID: 5000 RVA: 0x000D78F4 File Offset: 0x000D5AF4
+	public bool CF_fdb11ba7c04bae08854d542e4d87ce3562ed63dd_Corpsefuscated(Vector3 CF_ecdac92a7930d8185b60af129fb40536f5b32d48_Corpsefuscated, bool CF_9a1ccb50e58fd174e95c3060c2bdb8c0468c2a70_Corpsefuscated = true)
+	{
+		bool flag = false;
+		GameObject[] array = new GameObject[0];
+		GameObject[] array2 = new GameObject[0];
+		if (CF_9a1ccb50e58fd174e95c3060c2bdb8c0468c2a70_Corpsefuscated)
+		{
+			array = this.CF_ac14ff19cfe7bdbcf92f2fe4a50ed86076ea7049_Corpsefuscated;
+			array2 = this.CF_058aa63b6b676a9f81fad0f7e924aa8fe6eca0e4_Corpsefuscated;
+		}
+		if (this.CF_346d86053951ac7131a04c6642bf8dbc9b9be801_Corpsefuscated <= 0f)
+		{
+			flag = true;
+			if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.GetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e0f730caf72b0ac3d8e3c7bc990c0dd568034738_Corpsefuscated()) == 0f && this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+			{
+				this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e0f730caf72b0ac3d8e3c7bc990c0dd568034738_Corpsefuscated(), 1f);
+			}
+			if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.GetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e0f730caf72b0ac3d8e3c7bc990c0dd568034738_Corpsefuscated()) == 12f && this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+			{
+				this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e0f730caf72b0ac3d8e3c7bc990c0dd568034738_Corpsefuscated(), 9f);
+			}
+			this.CF_8114679d3ff1f0c03b92f6b8172aac523aad57cf_Corpsefuscated(this.CF_7444b876bc8b34276e8c7a159336a966d88a6e0f_Corpsefuscated, this.CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated, CF_ecdac92a7930d8185b60af129fb40536f5b32d48_Corpsefuscated, array, false);
+		}
+		if (this.CF_dc0c3983c8d561f9f616be9ed5b73d5d071c6c63_Corpsefuscated <= 0f)
+		{
+			if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.GetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e0f730caf72b0ac3d8e3c7bc990c0dd568034738_Corpsefuscated()) == 1f && this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+			{
+				this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e0f730caf72b0ac3d8e3c7bc990c0dd568034738_Corpsefuscated(), 0f);
+			}
+			if ((this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.GetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e0f730caf72b0ac3d8e3c7bc990c0dd568034738_Corpsefuscated()) == 13f || this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.GetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e0f730caf72b0ac3d8e3c7bc990c0dd568034738_Corpsefuscated()) == 9f) && this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+			{
+				this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_e0f730caf72b0ac3d8e3c7bc990c0dd568034738_Corpsefuscated(), 12f);
+			}
+			flag = true;
+			this.CF_8114679d3ff1f0c03b92f6b8172aac523aad57cf_Corpsefuscated(this.CF_8d1f26e4117e7c7a8710c4808a69da816db0fe8c_Corpsefuscated, this.CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated, CF_ecdac92a7930d8185b60af129fb40536f5b32d48_Corpsefuscated, array, false);
+		}
+		if (this.CF_a7c7b0a17f95a228806ab9788b72bb071595f37c_Corpsefuscated <= 0f)
+		{
+			flag = true;
+			if (this.CF_96ada46c7135e2822feae59ac0350409a289c495_Corpsefuscated)
+			{
+				this.CF_f826235a1d1550717548c14e1f75c8bccae35e16_Corpsefuscated();
+			}
+			this.CF_8114679d3ff1f0c03b92f6b8172aac523aad57cf_Corpsefuscated(this.CF_087b0a457aac081178dbe1e0c84db261d12b4c57_Corpsefuscated, this.CF_79f818cbf1c4d416f010bf0853967e54d38bcd06_Corpsefuscated, CF_ecdac92a7930d8185b60af129fb40536f5b32d48_Corpsefuscated, array2, false);
+		}
+		if (this.CF_4b63c66d85bb11a8054e42bb2de1fa024bfb50b6_Corpsefuscated <= 0f)
+		{
+			flag = true;
+			if (this.CF_96ada46c7135e2822feae59ac0350409a289c495_Corpsefuscated)
+			{
+				this.CF_f826235a1d1550717548c14e1f75c8bccae35e16_Corpsefuscated();
+			}
+			this.CF_8114679d3ff1f0c03b92f6b8172aac523aad57cf_Corpsefuscated(this.CF_bf6d2ae9464c748ac8ab9bf40a094a304b85cd01_Corpsefuscated, this.CF_80140f3e366043c674158fa537f4832323799e5b_Corpsefuscated, CF_ecdac92a7930d8185b60af129fb40536f5b32d48_Corpsefuscated, array2, false);
+		}
+		if (this.CF_346d86053951ac7131a04c6642bf8dbc9b9be801_Corpsefuscated <= 0f && this.CF_dc0c3983c8d561f9f616be9ed5b73d5d071c6c63_Corpsefuscated <= 0f)
+		{
+			this.CF_f96abee21c573bb7938ec0dcc1b13bdae925bafd_Corpsefuscated = true;
+		}
+		return flag;
+	}
+
+	// Token: 0x06001389 RID: 5001 RVA: 0x000D7B80 File Offset: 0x000D5D80
+	public GameObject CF_a3a63ac323423595052e4e12be2488c4856b6e3c_Corpsefuscated(int CF_b6fa39271d9c94c6551e585ce1baa73c3d960531_Corpsefuscated)
+	{
+		if (CF_b6fa39271d9c94c6551e585ce1baa73c3d960531_Corpsefuscated == 2 && this.CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated.Length > 0)
+		{
+			return this.CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated[CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0, this.CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated.Length - 1)];
+		}
+		if (CF_b6fa39271d9c94c6551e585ce1baa73c3d960531_Corpsefuscated == 3 && this.CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated.Length > 0)
+		{
+			return this.CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated[CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0, this.CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated.Length - 1)];
+		}
+		if (CF_b6fa39271d9c94c6551e585ce1baa73c3d960531_Corpsefuscated == 0 && this.CF_79f818cbf1c4d416f010bf0853967e54d38bcd06_Corpsefuscated.Length > 0)
+		{
+			return this.CF_79f818cbf1c4d416f010bf0853967e54d38bcd06_Corpsefuscated[CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0, this.CF_79f818cbf1c4d416f010bf0853967e54d38bcd06_Corpsefuscated.Length - 1)];
+		}
+		if (CF_b6fa39271d9c94c6551e585ce1baa73c3d960531_Corpsefuscated == 1 && this.CF_80140f3e366043c674158fa537f4832323799e5b_Corpsefuscated.Length > 0)
+		{
+			return this.CF_80140f3e366043c674158fa537f4832323799e5b_Corpsefuscated[CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0, this.CF_80140f3e366043c674158fa537f4832323799e5b_Corpsefuscated.Length - 1)];
+		}
+		if (CF_b6fa39271d9c94c6551e585ce1baa73c3d960531_Corpsefuscated == 4 && this.CF_1451e2b6c4e3b40dfe3a450f58a56ac52a416927_Corpsefuscated.Length > 0)
+		{
+			return this.CF_1451e2b6c4e3b40dfe3a450f58a56ac52a416927_Corpsefuscated[CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0, this.CF_1451e2b6c4e3b40dfe3a450f58a56ac52a416927_Corpsefuscated.Length - 1)];
+		}
+		if (CF_b6fa39271d9c94c6551e585ce1baa73c3d960531_Corpsefuscated == 5)
+		{
+			return this.CF_11926ee74d66ee37267d9566b869a8f552645269_Corpsefuscated;
+		}
+		if (CF_b6fa39271d9c94c6551e585ce1baa73c3d960531_Corpsefuscated == 6 && this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated != null && this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated.Length > 0)
+		{
+			return this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated[0].gameObject;
+		}
+		if (CF_b6fa39271d9c94c6551e585ce1baa73c3d960531_Corpsefuscated == 7 && this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated != null && this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated.Length > 1)
+		{
+			return this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated[1].gameObject;
+		}
+		if (CF_b6fa39271d9c94c6551e585ce1baa73c3d960531_Corpsefuscated == 8 && this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated != null && this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated.Length > 2)
+		{
+			return this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated[2].gameObject;
+		}
+		if (CF_b6fa39271d9c94c6551e585ce1baa73c3d960531_Corpsefuscated == 9 && this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated != null && this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated.Length > 3)
+		{
+			return this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated[3].gameObject;
+		}
+		if (CF_b6fa39271d9c94c6551e585ce1baa73c3d960531_Corpsefuscated == 10 && this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated != null && this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated.Length > 4)
+		{
+			return this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated[4].gameObject;
+		}
+		return this.CF_11926ee74d66ee37267d9566b869a8f552645269_Corpsefuscated;
+	}
+
+	// Token: 0x0600138A RID: 5002 RVA: 0x000D7D6C File Offset: 0x000D5F6C
+	public void CF_c1ec4ab3db0ee68d7acec7e3e524a50f07fbe828_Corpsefuscated(Vector3 CF_ecdac92a7930d8185b60af129fb40536f5b32d48_Corpsefuscated, GameObject CF_cea0a799597df41c9e198faf7b5765d9167b55b3_Corpsefuscated, CF_34a0faa4487452beef3ff25fceeeba995de50083_Corpsefuscated weapon, CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_65f66e73f9716e94454bf3fcbec4d8ec8ab961d8_Corpsefuscated, CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_44bd8938196918bfb617a06b2040a47e892f5a1c_Corpsefuscated, CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated, CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_bb64f5c6a4d60f544f0ed3abd2c5edca7bbeea88_Corpsefuscated, CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_06c118c026d26efc0ff7e5ef74bc26d02571e98f_Corpsefuscated, GameObject CF_e7378ff33cbcdc67a0f7e796eccd7f6f204e5bfe_Corpsefuscated = null, bool CF_8e3be2dc193103d89f4124e1f6dde5a1c8f4bbc7_Corpsefuscated = false, bool CF_d988750d79a906c6f2eeb9ea2af124e3400a82cb_Corpsefuscated = false, int CF_d98cfdeb6ba4d7af2aa130299612020611812e75_Corpsefuscated = 0, bool CF_0b066eb9dad3eade3f8d3215a36c3f021d060089_Corpsefuscated = false)
+	{
+		if (this.CF_28bcb2ffd00feb03d6b6c773ad5284d8921e6550_Corpsefuscated && (CF_d98cfdeb6ba4d7af2aa130299612020611812e75_Corpsefuscated == 0 || this.CF_84ba75c841d14793dd73817e9a4d36315f36d52f_Corpsefuscated))
+		{
+			CF_06c118c026d26efc0ff7e5ef74bc26d02571e98f_Corpsefuscated = 0f;
+			CF_bb64f5c6a4d60f544f0ed3abd2c5edca7bbeea88_Corpsefuscated = 0f;
+			CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated = 0f;
+			CF_65f66e73f9716e94454bf3fcbec4d8ec8ab961d8_Corpsefuscated = 0f;
+		}
+		CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated *= CF_50b13ccf6639b9ecb76e13481e1f69b63b64cd12_Corpsefuscated.CF_25436559856283666a1d868cc53ad4d678368267_Corpsefuscated();
+		CF_bb64f5c6a4d60f544f0ed3abd2c5edca7bbeea88_Corpsefuscated *= CF_50b13ccf6639b9ecb76e13481e1f69b63b64cd12_Corpsefuscated.CF_25436559856283666a1d868cc53ad4d678368267_Corpsefuscated();
+		CF_06c118c026d26efc0ff7e5ef74bc26d02571e98f_Corpsefuscated *= CF_50b13ccf6639b9ecb76e13481e1f69b63b64cd12_Corpsefuscated.CF_25436559856283666a1d868cc53ad4d678368267_Corpsefuscated();
+		CF_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated cf_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated = CF_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated.CF_a97dead64b1990f4af085196dd8fecf619b10ae9_Corpsefuscated;
+		bool flag = false;
+		if (CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated >= this.health * this.CF_563b7340b1f953afd116b5f2010c18d3495b61f6_Corpsefuscated)
+		{
+			flag = true;
+			this.CF_2221218179ff500a6bc4011ffdeaf1fcd7d044b2_Corpsefuscated.CF_3d1136c495116a0b3998e8794a81a50a771fffc1_Corpsefuscated = true;
+		}
+		if (CF_d988750d79a906c6f2eeb9ea2af124e3400a82cb_Corpsefuscated)
+		{
+			flag = true;
+		}
+		if (CF_65f66e73f9716e94454bf3fcbec4d8ec8ab961d8_Corpsefuscated <= 0f)
+		{
+			flag = false;
+		}
+		bool flag2 = false;
+		if (CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_f0c61e183d370298ad7b1553f2a60a824ac9402d_Corpsefuscated(CF_e7378ff33cbcdc67a0f7e796eccd7f6f204e5bfe_Corpsefuscated, this.CF_1451e2b6c4e3b40dfe3a450f58a56ac52a416927_Corpsefuscated) > -1 || CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_f0c61e183d370298ad7b1553f2a60a824ac9402d_Corpsefuscated(CF_e7378ff33cbcdc67a0f7e796eccd7f6f204e5bfe_Corpsefuscated, this.CF_8052a51f0daadddd7f78d4426df2268dea9b51bd_Corpsefuscated) > -1 || CF_d98cfdeb6ba4d7af2aa130299612020611812e75_Corpsefuscated == 2)
+		{
+			flag2 = true;
+			if (CF_bb64f5c6a4d60f544f0ed3abd2c5edca7bbeea88_Corpsefuscated > 0f)
+			{
+				CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated = CF_bb64f5c6a4d60f544f0ed3abd2c5edca7bbeea88_Corpsefuscated;
+			}
+			cf_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated = CF_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated.CF_df0f3b4b211169550e84eb26eb092476bc7b5214_Corpsefuscated;
+		}
+		bool flag3 = false;
+		if (this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_c6eff84477c1b9a7cfa0e83dcf5c070f6982c6d5_Corpsefuscated == 3 && CF_06c118c026d26efc0ff7e5ef74bc26d02571e98f_Corpsefuscated > 0f)
+		{
+			CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated = CF_06c118c026d26efc0ff7e5ef74bc26d02571e98f_Corpsefuscated;
+			flag3 = true;
+		}
+		if (CF_8e3be2dc193103d89f4124e1f6dde5a1c8f4bbc7_Corpsefuscated)
+		{
+			CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated = 0f;
+		}
+		bool flag4 = false;
+		if (CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_f0c61e183d370298ad7b1553f2a60a824ac9402d_Corpsefuscated(CF_e7378ff33cbcdc67a0f7e796eccd7f6f204e5bfe_Corpsefuscated, this.CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated) > -1 && this.CF_346d86053951ac7131a04c6642bf8dbc9b9be801_Corpsefuscated > 0f)
+		{
+			this.CF_346d86053951ac7131a04c6642bf8dbc9b9be801_Corpsefuscated -= CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated;
+			cf_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated = CF_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated.CF_21a2d1206e3b89332fcefbbe610aebddd75a0ab0_Corpsefuscated;
+			flag4 = true;
+		}
+		if (CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_f0c61e183d370298ad7b1553f2a60a824ac9402d_Corpsefuscated(CF_e7378ff33cbcdc67a0f7e796eccd7f6f204e5bfe_Corpsefuscated, this.CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated) > -1 && this.CF_dc0c3983c8d561f9f616be9ed5b73d5d071c6c63_Corpsefuscated > 0f)
+		{
+			this.CF_dc0c3983c8d561f9f616be9ed5b73d5d071c6c63_Corpsefuscated -= CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated;
+			cf_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated = CF_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated.CF_8ef301fd833a3c01e9e589e7d6ff06698f867f44_Corpsefuscated;
+			flag4 = true;
+		}
+		if (CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_f0c61e183d370298ad7b1553f2a60a824ac9402d_Corpsefuscated(CF_e7378ff33cbcdc67a0f7e796eccd7f6f204e5bfe_Corpsefuscated, this.CF_79f818cbf1c4d416f010bf0853967e54d38bcd06_Corpsefuscated) > -1 && this.CF_a7c7b0a17f95a228806ab9788b72bb071595f37c_Corpsefuscated > 0f)
+		{
+			this.CF_a7c7b0a17f95a228806ab9788b72bb071595f37c_Corpsefuscated -= CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated;
+			cf_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated = CF_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated.CF_b8053f13943aeb97c65771470971d6ca52c0e122_Corpsefuscated;
+			flag4 = true;
+		}
+		if (CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_f0c61e183d370298ad7b1553f2a60a824ac9402d_Corpsefuscated(CF_e7378ff33cbcdc67a0f7e796eccd7f6f204e5bfe_Corpsefuscated, this.CF_80140f3e366043c674158fa537f4832323799e5b_Corpsefuscated) > -1 && this.CF_4b63c66d85bb11a8054e42bb2de1fa024bfb50b6_Corpsefuscated > 0f)
+		{
+			this.CF_4b63c66d85bb11a8054e42bb2de1fa024bfb50b6_Corpsefuscated -= CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated;
+			cf_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated = CF_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated.CF_8f7794f7f19256936615b0acfba70a493c9db231_Corpsefuscated;
+			flag4 = true;
+		}
+		if (!CF_0b066eb9dad3eade3f8d3215a36c3f021d060089_Corpsefuscated)
+		{
+			int num = CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_f0c61e183d370298ad7b1553f2a60a824ac9402d_Corpsefuscated(CF_e7378ff33cbcdc67a0f7e796eccd7f6f204e5bfe_Corpsefuscated, this.CF_963476a0fc8aa570f0fb5c5f086931fa230139fe_Corpsefuscated);
+			if (num > -1 && this.CF_4955d22291f972b71d29e7676a9e2b386bb08b0c_Corpsefuscated.Length > num && this.CF_4955d22291f972b71d29e7676a9e2b386bb08b0c_Corpsefuscated[num] > 0f)
+			{
+				this.CF_4955d22291f972b71d29e7676a9e2b386bb08b0c_Corpsefuscated[num] -= CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated;
+				cf_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated = CF_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated.Cyst1 + num;
+				this.CF_683e0ac6872280f48652ea485721bf01eb6fa146_Corpsefuscated(num);
+			}
+		}
+		bool flag5 = false;
+		if (flag4)
+		{
+			flag5 = this.CF_fdb11ba7c04bae08854d542e4d87ce3562ed63dd_Corpsefuscated(CF_ecdac92a7930d8185b60af129fb40536f5b32d48_Corpsefuscated, true);
+		}
+		if ((flag5 || flag3) && CF_cea0a799597df41c9e198faf7b5765d9167b55b3_Corpsefuscated == CF_c26c8635957b08a139b9b635a091f3a918f8d947_Corpsefuscated.player)
+		{
+			CF_c26c8635957b08a139b9b635a091f3a918f8d947_Corpsefuscated.CF_3e1db9307baf00d55915cc5af89b80e7b2485278_Corpsefuscated(base.transform.position, this.CF_65a1af218dfa8791656121669b2404ae7b168dd6_Corpsefuscated, this.CF_ff0d4dc20d7adc76d85ba0d7cc04f07cbd6ba053_Corpsefuscated);
+		}
+		if (this.CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated < -0.5f)
+		{
+			CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_3430ec3c053bf045e939b27e5007e7983b3a0dba_Corpsefuscated(this.audioSrc, this.CF_0f4a080312fcdbc1a4b23ddb790f52753692c7f8_Corpsefuscated, this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.voiceVolume, -1, 0.05f, this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_33f7f49c886db7366d2a157465a415c8272f1773_Corpsefuscated);
+		}
+		float num2 = this.CF_fa3bbb385df87c2d83a9bf8b517aaa4e80bfb681_Corpsefuscated;
+		if (this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_a32671283ed9ec36efd7470d0845bc8d25c77c3c_Corpsefuscated)
+		{
+			num2 = this.CF_242f9805724d3a7e4d999a182ece5aeb93016648_Corpsefuscated;
+		}
+		if (this.CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated < -num2 && flag)
+		{
+			if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+			{
+				this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_9bc41025ab03bd8f824440c46eeee148a8e021e7_Corpsefuscated(), (float)CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(this.CF_7d013d391020217fd2b9b24e81f79a30f4786f34_Corpsefuscated, this.CF_8337ec2024351ce75f8a7b88ee9d99e767375994_Corpsefuscated));
+			}
+			this.CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated = CF_65f66e73f9716e94454bf3fcbec4d8ec8ab961d8_Corpsefuscated / this.CF_85185be73b8778a185ae6b7a1584e69b3a6a01ee_Corpsefuscated;
+			if (flag5 || flag3)
+			{
+				this.CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated *= 2f;
+			}
+			this.CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated = Mathf.Min(this.CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated, this.CF_6c4421be9ff45f39ac9ce2cacf98ad8f5d199f51_Corpsefuscated);
+			this.CF_481ee787c01304aed16580fe2a662cd53f29f587_Corpsefuscated = this.CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated;
+			this.CF_7d2cb89468f3e307c4cf82f9fe2aae111d71a2ab_Corpsefuscated(CF_ecdac92a7930d8185b60af129fb40536f5b32d48_Corpsefuscated, CF_44bd8938196918bfb617a06b2040a47e892f5a1c_Corpsefuscated / this.CF_85185be73b8778a185ae6b7a1584e69b3a6a01ee_Corpsefuscated);
+			this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_600f92003f083342e0a9870e04a4cebd6e62838f_Corpsefuscated();
+		}
+		this.CF_0b78b9a60d7d1c6d396cb24495fddc5e8b0c5a4c_Corpsefuscated = CF_ecdac92a7930d8185b60af129fb40536f5b32d48_Corpsefuscated;
+		this.health -= CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated;
+		this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_3cedb00159738c22c549c0b95e757bfc21863590_Corpsefuscated(CF_cea0a799597df41c9e198faf7b5765d9167b55b3_Corpsefuscated, true);
+		if (this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_a456b05af9f9b637c57354000d716438586aea7f_Corpsefuscated)
+		{
+			this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_a456b05af9f9b637c57354000d716438586aea7f_Corpsefuscated.enabled = false;
+		}
+		if (CF_cea0a799597df41c9e198faf7b5765d9167b55b3_Corpsefuscated == CF_c26c8635957b08a139b9b635a091f3a918f8d947_Corpsefuscated.player)
+		{
+			CF_50b13ccf6639b9ecb76e13481e1f69b63b64cd12_Corpsefuscated.CF_40c63bbb4feeb3052cc0ee65938b496634009bd7_Corpsefuscated(this.CF_0fedc6ee052ac82d6d33b3a305e24863d905d37b_Corpsefuscated.id, CF_948e1ace7b1109ff95c0ff57312a5dd093ead3a9_Corpsefuscated.CF_4bc3d0bc4c91a104b28eb1665b36e1249c096194_Corpsefuscated, cf_a0e309b4429d031c58f9145285417d6efe14a14a_Corpsefuscated, CF_d98cfdeb6ba4d7af2aa130299612020611812e75_Corpsefuscated > 0);
+			this.CF_c951910cf38e1ee3d90b0b1e9689895cc74a3033_Corpsefuscated += CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated;
+			CF_7cfebd2e376a76705f6d181e468231fb7d1d15e5_Corpsefuscated.CF_2b59100c690b7227c5bca5b5c64e778b8b1f49ea_Corpsefuscated(flag2, flag3, CF_588bdffea7f292445022aa2ae02d033807ee65cb_Corpsefuscated);
+		}
+		if (this.health <= 0f)
+		{
+			if (flag2 && this.CF_57da6cb704cd3db435a349005714a972f3502b5f_Corpsefuscated)
+			{
+				this.CF_8114679d3ff1f0c03b92f6b8172aac523aad57cf_Corpsefuscated(this.CF_7ee6f4053724dd856b89c582ef9ba29df25ecd73_Corpsefuscated, this.CF_1451e2b6c4e3b40dfe3a450f58a56ac52a416927_Corpsefuscated, CF_ecdac92a7930d8185b60af129fb40536f5b32d48_Corpsefuscated, this.CF_4d38401b15c5785bb110b18e196adc2db746e19d_Corpsefuscated, true);
+				this.CF_522021f35985e3b1719b4d71af9b1c50cdaf7319_Corpsefuscated = true;
+			}
+			if (this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated != 4 && !CF_8e3be2dc193103d89f4124e1f6dde5a1c8f4bbc7_Corpsefuscated)
+			{
+				if (flag2)
+				{
+					CF_c26c8635957b08a139b9b635a091f3a918f8d947_Corpsefuscated.CF_3e1db9307baf00d55915cc5af89b80e7b2485278_Corpsefuscated(base.transform.position, 5f, 0.5f);
+				}
+				this.CF_2692cde9dd479de59445d1d8c54883a670a7b26b_Corpsefuscated(false, flag2, false, false, false);
+			}
+		}
+		else if (this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated == 1 || this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated == 2)
+		{
+			this.CF_dd88429db61049fd0202040da0ebe88e9fcf0694_Corpsefuscated(false);
+			if (!this.CF_42575b6bd4052ee443334e5373e637fc11c6df39_Corpsefuscated)
+			{
+				this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_9f6be57116c557c3cbb264b8171e691cba544afc_Corpsefuscated(CF_cea0a799597df41c9e198faf7b5765d9167b55b3_Corpsefuscated);
+			}
+			base.StartCoroutine(this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_ad70cdd03e6258b4323fcfad977cbdb1b704313d_Corpsefuscated(CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0f, 0.5f)));
+		}
+	}
+
+	// Token: 0x0600138B RID: 5003 RVA: 0x000D841C File Offset: 0x000D661C
+	public void CF_683e0ac6872280f48652ea485721bf01eb6fa146_Corpsefuscated(int CF_294785633d0c4c22e13f690adf8e4af5e0d221b7_Corpsefuscated)
+	{
+		if (this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated == null || CF_294785633d0c4c22e13f690adf8e4af5e0d221b7_Corpsefuscated > this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated.Length)
+		{
+			return;
+		}
+		CF_c26c8635957b08a139b9b635a091f3a918f8d947_Corpsefuscated.CF_3e1db9307baf00d55915cc5af89b80e7b2485278_Corpsefuscated(base.transform.position, this.CF_70d3a884325eeb3c1e10ad0a04473ac961d4b1a1_Corpsefuscated, this.CF_3ded381e07b598326308543ee5bc7a19013d7a3a_Corpsefuscated);
+		CF_a64aef8ba6ea063d33785ed55cdda9dc56deccbb_Corpsefuscated.StartCoroutineStatic(this.CF_a86c74d939ea68d68a48754a630a4b153c6a2647_Corpsefuscated(this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated[CF_294785633d0c4c22e13f690adf8e4af5e0d221b7_Corpsefuscated].transform.position, 0.5f));
+		this.CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated[CF_294785633d0c4c22e13f690adf8e4af5e0d221b7_Corpsefuscated].CF_61ff4d19663b64cc29791bee68f3deb776f6f1fc_Corpsefuscated();
+	}
+
+	// Token: 0x0600138C RID: 5004 RVA: 0x000D849C File Offset: 0x000D669C
+	private IEnumerator CF_a86c74d939ea68d68a48754a630a4b153c6a2647_Corpsefuscated(Vector3 position, float CF_ef3d09b319135cd2fa01c28d069bfb79d1c5fc54_Corpsefuscated)
+	{
+		yield return new WaitForSeconds(CF_ef3d09b319135cd2fa01c28d069bfb79d1c5fc54_Corpsefuscated);
+		CF_22019267fe6f2d0cc03f07f62ead6bd6462ad21b_Corpsefuscated.CF_a2793beb52f9aefa6ab7331678e2b4ef8e2dbcea_Corpsefuscated(position, this.CF_5145b846d4da9e940e4b37b5897cafb04a4f4c6d_Corpsefuscated, this.CF_c0b1afe435c735f0186f226f32fb6d423fb0ef7b_Corpsefuscated, this.CF_6a86ce12ed39db6b2420d271562f6824eed14d6e_Corpsefuscated, this.CF_2b75264cdbc3930e0b541e9ae34a1cdca235fa1c_Corpsefuscated, this.CF_66ddeebf9801afb13e4db031efcd9aec9d9266d0_Corpsefuscated);
+		yield break;
+	}
+
+	// Token: 0x0600138D RID: 5005 RVA: 0x0001362B File Offset: 0x0001182B
+	private void CF_5ad9ace5a272e6cc62d792a12f4ffce886154c8c_Corpsefuscated()
+	{
+		if (this.CF_42575b6bd4052ee443334e5373e637fc11c6df39_Corpsefuscated)
+		{
+			this.CF_083d3b7f1a507ed9e96f88634e95f3e5f793b523_Corpsefuscated(CF_c26c8635957b08a139b9b635a091f3a918f8d947_Corpsefuscated.player);
+		}
+	}
+
+	// Token: 0x0600138E RID: 5006 RVA: 0x000D84C8 File Offset: 0x000D66C8
+	public void CF_083d3b7f1a507ed9e96f88634e95f3e5f793b523_Corpsefuscated(GameObject CF_e4cdff22aeb22f6ca3ca00de3895fbe4dafaa62f_Corpsefuscated)
+	{
+		if (this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated != 1 && this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated != 2)
+		{
+			return;
+		}
+		if (this.CF_aad4a8d970831b0e29707f1b2c598c93901d83ef_Corpsefuscated < this.CF_071d8c909c6d4577fc32736f5156364e4d361263_Corpsefuscated)
+		{
+			return;
+		}
+		this.CF_dd88429db61049fd0202040da0ebe88e9fcf0694_Corpsefuscated(false);
+		if (!this.CF_42575b6bd4052ee443334e5373e637fc11c6df39_Corpsefuscated)
+		{
+			this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_9f6be57116c557c3cbb264b8171e691cba544afc_Corpsefuscated(CF_e4cdff22aeb22f6ca3ca00de3895fbe4dafaa62f_Corpsefuscated);
+		}
+		base.StartCoroutine(this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_ad70cdd03e6258b4323fcfad977cbdb1b704313d_Corpsefuscated(CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0f, 0.5f)));
+	}
+
+	// Token: 0x0600138F RID: 5007 RVA: 0x000D8560 File Offset: 0x000D6760
+	private void CF_dd88429db61049fd0202040da0ebe88e9fcf0694_Corpsefuscated(bool force = false)
+	{
+		if (this.CF_aad4a8d970831b0e29707f1b2c598c93901d83ef_Corpsefuscated < this.CF_071d8c909c6d4577fc32736f5156364e4d361263_Corpsefuscated && !force)
+		{
+			return;
+		}
+		if (this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated)
+		{
+			this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated.SetActive(false);
+		}
+		this.CF_69122001308b0a099a4dc181079201ca40c8f77b_Corpsefuscated = CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated.op_Increment(this.CF_69122001308b0a099a4dc181079201ca40c8f77b_Corpsefuscated);
+		this.CF_78dde0631c8ac0c39be581bb201739bc2e1ea8e5_Corpsefuscated = true;
+		if (this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_a456b05af9f9b637c57354000d716438586aea7f_Corpsefuscated)
+		{
+			this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_a456b05af9f9b637c57354000d716438586aea7f_Corpsefuscated.enabled = true;
+		}
+		this.CF_9311a09fc83b741d0cba7943884c1430c4dc92a7_Corpsefuscated = 0f;
+		this.CF_aad4a8d970831b0e29707f1b2c598c93901d83ef_Corpsefuscated = 0f;
+		if (this.collider)
+		{
+			this.collider.enabled = true;
+		}
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.updateRotation = true;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.updatePosition = true;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.speed = this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_80e4f9a79d790caa7c900a01d286e0ac7073cd73_Corpsefuscated;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.angularSpeed = this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.angularSpeed;
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetBool(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_188b089abe4e55951491044612b8651066927fea_Corpsefuscated(), false);
+		}
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.speed = 1f;
+		}
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_67fb5b515046794dfc62540de5d8b6e371614ee2_Corpsefuscated(), 1f);
+		}
+		this.CF_bcaff7554a53bf54bb27ca008571f68626c90f36_Corpsefuscated = 1f;
+		if (this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated == 2)
+		{
+			this.CF_f826235a1d1550717548c14e1f75c8bccae35e16_Corpsefuscated();
+		}
+		else
+		{
+			this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated = 0;
+		}
+	}
+
+	// Token: 0x06001390 RID: 5008 RVA: 0x00013648 File Offset: 0x00011848
+	public void CF_9be25bb9db49c04bc3b44e86031401eefecea530_Corpsefuscated()
+	{
+		this.CF_2692cde9dd479de59445d1d8c54883a670a7b26b_Corpsefuscated(false, false, true, true, false);
+	}
+
+	// Token: 0x06001391 RID: 5009 RVA: 0x000D8720 File Offset: 0x000D6920
+	public bool CF_df9d23479d31cb1669b8656e7404f5472c0f25fc_Corpsefuscated()
+	{
+		return this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated == 4 || this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated == 1 || this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated == 2;
+	}
+
+	// Token: 0x06001392 RID: 5010 RVA: 0x000D8770 File Offset: 0x000D6970
+	public void CF_c8d5fc7241d93c00dba1237c6886c9961194e419_Corpsefuscated(int CF_4df69f492489f6f8835610ad2849821c4be74156_Corpsefuscated, bool CF_def9241c9b137c61bc1e6b3b46a5285d19968126_Corpsefuscated = false, bool CF_3922703a5be4503e4b98b4fc760ac75c88c405fe_Corpsefuscated = false)
+	{
+		if (this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated != CF_4df69f492489f6f8835610ad2849821c4be74156_Corpsefuscated)
+		{
+			if (CF_4df69f492489f6f8835610ad2849821c4be74156_Corpsefuscated == 0)
+			{
+				this.CF_dd88429db61049fd0202040da0ebe88e9fcf0694_Corpsefuscated(CF_3922703a5be4503e4b98b4fc760ac75c88c405fe_Corpsefuscated);
+			}
+			if (CF_4df69f492489f6f8835610ad2849821c4be74156_Corpsefuscated == 4)
+			{
+				this.CF_2692cde9dd479de59445d1d8c54883a670a7b26b_Corpsefuscated(false, true, false, CF_def9241c9b137c61bc1e6b3b46a5285d19968126_Corpsefuscated, false);
+			}
+			if (CF_4df69f492489f6f8835610ad2849821c4be74156_Corpsefuscated == 2)
+			{
+				this.CF_2692cde9dd479de59445d1d8c54883a670a7b26b_Corpsefuscated(false, false, true, CF_def9241c9b137c61bc1e6b3b46a5285d19968126_Corpsefuscated, true);
+			}
+			if (CF_4df69f492489f6f8835610ad2849821c4be74156_Corpsefuscated == 1)
+			{
+				this.CF_2692cde9dd479de59445d1d8c54883a670a7b26b_Corpsefuscated(false, false, true, CF_def9241c9b137c61bc1e6b3b46a5285d19968126_Corpsefuscated, false);
+			}
+			if (CF_4df69f492489f6f8835610ad2849821c4be74156_Corpsefuscated == 3)
+			{
+				this.CF_f826235a1d1550717548c14e1f75c8bccae35e16_Corpsefuscated();
+			}
+		}
+	}
+
+	// Token: 0x06001393 RID: 5011 RVA: 0x000D87E4 File Offset: 0x000D69E4
+	private void CF_2692cde9dd479de59445d1d8c54883a670a7b26b_Corpsefuscated(bool CF_71d6af14b2c3ca298ffc09b8d17a8a5baf647396_Corpsefuscated = false, bool CF_31076feed4c2ebff3d53ce351108b9b9688b15dd_Corpsefuscated = false, bool CF_615f47123b749dbd1ee679043f53f01a63c1d930_Corpsefuscated = false, bool CF_cdef06a67b3caef6ebc08e5c2f79e16f7edce802_Corpsefuscated = false, bool CF_5ebf6a8f02d7c51272c863165962af6643fb1787_Corpsefuscated = false)
+	{
+		if (this.CF_413f9ab6711a7e6e46055dcce86d393313ee167d_Corpsefuscated)
+		{
+			return;
+		}
+		this.CF_413f9ab6711a7e6e46055dcce86d393313ee167d_Corpsefuscated = true;
+		this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_600f92003f083342e0a9870e04a4cebd6e62838f_Corpsefuscated();
+		if (this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated)
+		{
+			this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated.SetActive(true);
+		}
+		bool flag = (CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0f, 1f) <= this.CF_7160e7fe5c030c9ee9693c7e2d246f1a2bd68c9b_Corpsefuscated || CF_615f47123b749dbd1ee679043f53f01a63c1d930_Corpsefuscated) && !CF_31076feed4c2ebff3d53ce351108b9b9688b15dd_Corpsefuscated && this.CF_69122001308b0a099a4dc181079201ca40c8f77b_Corpsefuscated < this.CF_1972cc13011e69377dad8548d13d8dfe59601ef3_Corpsefuscated;
+		bool flag2 = this.CF_a7c7b0a17f95a228806ab9788b72bb071595f37c_Corpsefuscated <= 0f || this.CF_4b63c66d85bb11a8054e42bb2de1fa024bfb50b6_Corpsefuscated <= 0f || CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0.01f, 1f) <= this.CF_02cbb823249a81758645491aa57e4ba7b3af5026_Corpsefuscated || CF_5ebf6a8f02d7c51272c863165962af6643fb1787_Corpsefuscated;
+		if (!this.CF_96ada46c7135e2822feae59ac0350409a289c495_Corpsefuscated)
+		{
+			flag2 = false;
+		}
+		if (CF_31076feed4c2ebff3d53ce351108b9b9688b15dd_Corpsefuscated)
+		{
+			flag2 = false;
+			flag = false;
+		}
+		if (!this.CF_57da6cb704cd3db435a349005714a972f3502b5f_Corpsefuscated)
+		{
+			flag = true;
+		}
+		if (flag)
+		{
+			this.health = this.maxHealth * this.CF_32bc43ea745a38e9658f9515bf2a26eff6587c4f_Corpsefuscated;
+		}
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetBool(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_188b089abe4e55951491044612b8651066927fea_Corpsefuscated(), true);
+		}
+		this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_01210b2612a7ed55358e331e2d3226d3bc78e321_Corpsefuscated();
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.updateRotation = true;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.updatePosition = true;
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.speed = 0f;
+		if (CF_cdef06a67b3caef6ebc08e5c2f79e16f7edce802_Corpsefuscated)
+		{
+			if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+			{
+				this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.Play(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_eb270e6ef239229f9affbefe411ba279b7888bc8_Corpsefuscated(), -1, 1f);
+			}
+			Vector3 vector = new Vector3(CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0f, 1f), 0f, CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0f, 1f));
+			this.CF_0b78b9a60d7d1c6d396cb24495fddc5e8b0c5a4c_Corpsefuscated = vector.normalized;
+		}
+		if (!CF_cdef06a67b3caef6ebc08e5c2f79e16f7edce802_Corpsefuscated)
+		{
+			CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_bed42f9c36475fa990e97b8b99c3e3fcdedaeec7_Corpsefuscated(this.audioSrc, this.CF_4e47e3279951e3c6ce28f407b12a32c47db24b1b_Corpsefuscated, this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.voiceVolume, -1, 0.05f, this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_33f7f49c886db7366d2a157465a415c8272f1773_Corpsefuscated);
+		}
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			if (Vector3.Angle(this.CF_0b78b9a60d7d1c6d396cb24495fddc5e8b0c5a4c_Corpsefuscated, base.transform.forward * -1f) <= 45f)
+			{
+				this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_fa43af82429418ac36568cedff31fc42aa1fdfad_Corpsefuscated(), 0f);
+				if (CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(0f, 1f) <= 0.5f)
+				{
+					this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_fa43af82429418ac36568cedff31fc42aa1fdfad_Corpsefuscated(), (float)CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(2, 3));
+				}
+			}
+			else if (Vector3.Angle(this.CF_0b78b9a60d7d1c6d396cb24495fddc5e8b0c5a4c_Corpsefuscated, -base.transform.right) <= 45f)
+			{
+				this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_fa43af82429418ac36568cedff31fc42aa1fdfad_Corpsefuscated(), 2f);
+			}
+			else if (Vector3.Angle(this.CF_0b78b9a60d7d1c6d396cb24495fddc5e8b0c5a4c_Corpsefuscated, base.transform.right) <= 45f)
+			{
+				this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_fa43af82429418ac36568cedff31fc42aa1fdfad_Corpsefuscated(), 3f);
+			}
+			else
+			{
+				this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_fa43af82429418ac36568cedff31fc42aa1fdfad_Corpsefuscated(), 1f);
+			}
+			if (this.collider)
+			{
+				this.collider.enabled = false;
+			}
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_37c30c7dd9abacc92fe36c8f88cbf952e0e1e4fb_Corpsefuscated(), (float)CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_d2ff4f0889150d2446917a48e666926bbf42fac8_Corpsefuscated(this.CF_9efa36b019c819f76805d182e680b07e1d0dd8c3_Corpsefuscated, this.CF_c166974edaeb752a0e019728031060e0a67836b6_Corpsefuscated));
+			if (CF_71d6af14b2c3ca298ffc09b8d17a8a5baf647396_Corpsefuscated)
+			{
+				this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_37c30c7dd9abacc92fe36c8f88cbf952e0e1e4fb_Corpsefuscated(), (float)this.CF_44adfc2ebfa47c78f8c040e481047b7c746f6bb8_Corpsefuscated);
+			}
+			if (flag)
+			{
+				this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_fa43af82429418ac36568cedff31fc42aa1fdfad_Corpsefuscated(), 1f);
+			}
+		}
+		if ((this.CF_df9d23479d31cb1669b8656e7404f5472c0f25fc_Corpsefuscated() || this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated == 3 || this.CF_78dde0631c8ac0c39be581bb201739bc2e1ea8e5_Corpsefuscated) && !CF_615f47123b749dbd1ee679043f53f01a63c1d930_Corpsefuscated && this.CF_57da6cb704cd3db435a349005714a972f3502b5f_Corpsefuscated)
+		{
+			this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated = 4;
+			this.CF_0fedc6ee052ac82d6d33b3a305e24863d905d37b_Corpsefuscated.CF_eed9d861af51c803621fa103de846b4ddbed592e_Corpsefuscated(true, false);
+			this.CF_5235159ba9e90f6e4132b8df0758ad70f5dc6049_Corpsefuscated(true);
+			return;
+		}
+		this.CF_78dde0631c8ac0c39be581bb201739bc2e1ea8e5_Corpsefuscated = false;
+		if (flag)
+		{
+			if (flag2)
+			{
+				this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated = 2;
+			}
+			else
+			{
+				this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated = 1;
+			}
+		}
+		else
+		{
+			this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated = 4;
+		}
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetBool(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_8af2314acb6fde794ca7f3eaf31c550e9c761f39_Corpsefuscated(), false);
+		}
+		this.CF_0fedc6ee052ac82d6d33b3a305e24863d905d37b_Corpsefuscated.CF_eed9d861af51c803621fa103de846b4ddbed592e_Corpsefuscated(false, false);
+	}
+
+	// Token: 0x06001394 RID: 5012 RVA: 0x000D8CA4 File Offset: 0x000D6EA4
+	private void CF_59dde81408aafacb5165bc8020784f863c5a4a81_Corpsefuscated()
+	{
+		this.CF_413f9ab6711a7e6e46055dcce86d393313ee167d_Corpsefuscated = false;
+		if (this.CF_df9d23479d31cb1669b8656e7404f5472c0f25fc_Corpsefuscated())
+		{
+			this.CF_aad4a8d970831b0e29707f1b2c598c93901d83ef_Corpsefuscated += Time.deltaTime;
+			if (this.CF_aad4a8d970831b0e29707f1b2c598c93901d83ef_Corpsefuscated >= 0.35f / this.CF_bcaff7554a53bf54bb27ca008571f68626c90f36_Corpsefuscated && (this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated == 4 || this.CF_522021f35985e3b1719b4d71af9b1c50cdaf7319_Corpsefuscated) && this.CF_57da6cb704cd3db435a349005714a972f3502b5f_Corpsefuscated)
+			{
+				this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated = 4;
+				if (this.CF_0fedc6ee052ac82d6d33b3a305e24863d905d37b_Corpsefuscated)
+				{
+					this.CF_0fedc6ee052ac82d6d33b3a305e24863d905d37b_Corpsefuscated.CF_eed9d861af51c803621fa103de846b4ddbed592e_Corpsefuscated(true, false);
+				}
+				this.CF_5235159ba9e90f6e4132b8df0758ad70f5dc6049_Corpsefuscated(false);
+			}
+		}
+	}
+
+	// Token: 0x06001395 RID: 5013 RVA: 0x000D8D6C File Offset: 0x000D6F6C
+	private void CF_a56185e6d0696c1a8e5a70a795078ef9a978d904_Corpsefuscated()
+	{
+		this.CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated -= Time.deltaTime;
+		if (this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.gameObject.activeSelf)
+		{
+			this.CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated.SetFloat(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_18b90c648c7c2f984f356652d3c5f7b595989df2_Corpsefuscated(), this.CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated);
+		}
+	}
+
+	// Token: 0x06001396 RID: 5014 RVA: 0x000D8DC4 File Offset: 0x000D6FC4
+	private void CF_5235159ba9e90f6e4132b8df0758ad70f5dc6049_Corpsefuscated(bool CF_def9241c9b137c61bc1e6b3b46a5285d19968126_Corpsefuscated = false)
+	{
+		if (this.CF_a4d4b9a9bd33322103a438f669b4ca4b3bf67a51_Corpsefuscated)
+		{
+			return;
+		}
+		if (this.CF_928c51d6511d41bf35ce2ac5b71f800fe4a74fe4_Corpsefuscated != null)
+		{
+			foreach (GameObject gameObject in this.CF_928c51d6511d41bf35ce2ac5b71f800fe4a74fe4_Corpsefuscated)
+			{
+				gameObject.SetActive(false);
+			}
+		}
+		if (this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_cff1760796d202dc7cdc3aed4bb0db8f29abca4b_Corpsefuscated)
+		{
+			this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_cff1760796d202dc7cdc3aed4bb0db8f29abca4b_Corpsefuscated.Reset();
+			this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_cff1760796d202dc7cdc3aed4bb0db8f29abca4b_Corpsefuscated.enabled = false;
+		}
+		if (this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated)
+		{
+			this.CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated.SetActive(false);
+		}
+		if (!CF_38a25cb55d6b4ae40c0789c2853d503398332fb8_Corpsefuscated.CF_0c7b4b4be5e068089daba0183d50b37b6e241f36_Corpsefuscated(this.CF_b06ed61104ed406239fdf44de861da07f02906d2_Corpsefuscated))
+		{
+			this.CF_300f2b5381ef57a68e2024ca9a2744ff260aa572_Corpsefuscated = false;
+			this.CF_9440eab0b97147fb457f4aef5196f79ed8ed99e1_Corpsefuscated = -1;
+		}
+		if (this.CF_300f2b5381ef57a68e2024ca9a2744ff260aa572_Corpsefuscated)
+		{
+			CF_c26c8635957b08a139b9b635a091f3a918f8d947_Corpsefuscated.CF_7e233bc367e58b363b064b2ecd73fe0bacf47666_Corpsefuscated(this.oid, this.CF_5679ed6ea2a561f4901dafc98630daaa3a34ba94_Corpsefuscated, this.CF_c951910cf38e1ee3d90b0b1e9689895cc74a3033_Corpsefuscated);
+			CF_38a25cb55d6b4ae40c0789c2853d503398332fb8_Corpsefuscated.CF_8e3ba5f90ea6a9e30d7a937d2964df8e79983d8b_Corpsefuscated(this.CF_b06ed61104ed406239fdf44de861da07f02906d2_Corpsefuscated);
+		}
+		this.CF_a4d4b9a9bd33322103a438f669b4ca4b3bf67a51_Corpsefuscated = true;
+		CF_7cfebd2e376a76705f6d181e468231fb7d1d15e5_Corpsefuscated.CF_70875c80b9894cbc97a3f05260fa2e2c7c90ffdd_Corpsefuscated(this.CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated);
+		this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_1e449f67f16dadbfcfdbedf3d626b27ae290942b_Corpsefuscated();
+		CF_22019267fe6f2d0cc03f07f62ead6bd6462ad21b_Corpsefuscated.CF_548b9c493d364f11d9fa24228011a7b80d254fc8_Corpsefuscated.Add(this.id);
+		if (this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_2317a4093e93a554a5500650ccc450a82ffb6999_Corpsefuscated != null)
+		{
+			this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_2317a4093e93a554a5500650ccc450a82ffb6999_Corpsefuscated.gameObject.SetActive(false);
+		}
+		if (this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_90db2bffa747c03079144c5ffde8f5be33585b9c_Corpsefuscated != null)
+		{
+			this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_90db2bffa747c03079144c5ffde8f5be33585b9c_Corpsefuscated.gameObject.SetActive(false);
+		}
+		this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated.CF_600f92003f083342e0a9870e04a4cebd6e62838f_Corpsefuscated();
+		this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated.speed = 0f;
+		if (this.CF_96668f0c701b8780ed76411935cbc9c019e69a1a_Corpsefuscated)
+		{
+			GameObject gameObject2 = CF_2fa8b1280dc9cac9a27dd8e82389177175700288_Corpsefuscated.Instantiate(this.CF_96668f0c701b8780ed76411935cbc9c019e69a1a_Corpsefuscated, base.transform.position, base.transform.rotation);
+			gameObject2.name = base.gameObject.name;
+			gameObject2.tag = "Ragdoll";
+			Ragdoll component = gameObject2.GetComponent<Ragdoll>();
+			gameObject2.transform.localScale = base.transform.localScale;
+			CF_1a505b726af1e7a8258bf4f434c5eb2db48408a0_Corpsefuscated.CF_33f31c636f17bfd08a2968d15284bf9799fd97d3_Corpsefuscated(base.transform, gameObject2.transform, false, false);
+			if (this.CF_9440eab0b97147fb457f4aef5196f79ed8ed99e1_Corpsefuscated > -1 && !CF_46370489012c10ebb84d20417354d8a60a2da648_Corpsefuscated.CF_2aa95c66c55dfc9c1ac808d46b396e0f4a243f4f_Corpsefuscated.Contains(this.CF_9440eab0b97147fb457f4aef5196f79ed8ed99e1_Corpsefuscated))
+			{
+				CF_5f1923942f1dcd2979511f571cde8f3b5e544569_Corpsefuscated component2 = gameObject2.GetComponent<CF_5f1923942f1dcd2979511f571cde8f3b5e544569_Corpsefuscated>();
+				component2.lootID = this.CF_9440eab0b97147fb457f4aef5196f79ed8ed99e1_Corpsefuscated;
+				component2.CF_443f73ba975b80adc16bcbbf251d99410638c047_Corpsefuscated = CF_46370489012c10ebb84d20417354d8a60a2da648_Corpsefuscated.CF_d1aa8bc01d69a76a68eec9e8b6b604e180b9d28e_Corpsefuscated;
+				component2.CF_f39aa8118559dfdd422ca560ba28e1f48064e8ef_Corpsefuscated = this.CF_cee23f77eef497b7ae17ab48f1c5ca5f9ec2bbf0_Corpsefuscated;
+				component2.Enable();
+				DF2Debug.Log(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_eccf8e878b32d0d3e89122547cddabc6f88b3b5d_Corpsefuscated());
+			}
+			if (this.audioSrc && this.audioSrc.isPlaying)
+			{
+				AudioSource component3 = gameObject2.GetComponent<AudioSource>();
+				component3.clip = this.audioSrc.clip;
+				component3.time = this.audioSrc.time;
+				component3.volume = this.audioSrc.volume;
+				component3.pitch = this.audioSrc.pitch;
+				component3.outputAudioMixerGroup = this.audioSrc.outputAudioMixerGroup;
+				component3.spatialBlend = this.audioSrc.spatialBlend;
+				component3.Play();
+			}
+			CF_22019267fe6f2d0cc03f07f62ead6bd6462ad21b_Corpsefuscated.CF_f7d101af757ef1537ee839edd57f80226ce1df59_Corpsefuscated[gameObject2.name] = gameObject2.GetComponent<CF_db84cd72cb83d9a0a7203397922ef735ebeeedee_Corpsefuscated>();
+			if (CF_def9241c9b137c61bc1e6b3b46a5285d19968126_Corpsefuscated)
+			{
+				CF_22019267fe6f2d0cc03f07f62ead6bd6462ad21b_Corpsefuscated.CF_f7d101af757ef1537ee839edd57f80226ce1df59_Corpsefuscated[gameObject2.name].CF_7b72535f17607a2d73f54bd7e4fb16e595942f83_Corpsefuscated();
+			}
+			if (this.CF_9440eab0b97147fb457f4aef5196f79ed8ed99e1_Corpsefuscated <= -1)
+			{
+				CF_c232de9292adb1fd212074f96395fc09e6e80e6d_Corpsefuscated component4 = gameObject2.gameObject.GetComponent<CF_c232de9292adb1fd212074f96395fc09e6e80e6d_Corpsefuscated>();
+				float num = 10f;
+				float num2 = 0.25f;
+				if (CF_46370489012c10ebb84d20417354d8a60a2da648_Corpsefuscated.CF_64653f8dc5540d4cdc6fa9347088735941f4512b_Corpsefuscated)
+				{
+					num = 3f;
+					num2 = 0.5f;
+				}
+				if (CF_38a25cb55d6b4ae40c0789c2853d503398332fb8_Corpsefuscated.CF_77b2f80bb74d13bc529dffee038d08e7a32e96b4_Corpsefuscated)
+				{
+					num = 1f;
+					num2 = 1f;
+				}
+				component4.CF_0cb6948b4447aeccff41a002af5cfd3eb8278eec_Corpsefuscated(num, CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_9ee23f6d3e3ae9ae3310d6cbcce5e851441d7b3e_Corpsefuscated(), num2);
+			}
+			CF_2fa8b1280dc9cac9a27dd8e82389177175700288_Corpsefuscated.Destroy(base.gameObject);
+		}
+		else
+		{
+			base.gameObject.CF_e45a5bf61e5bb6a2a0eff8c82b9c419f4aa57b0c_Corpsefuscated(LayerMask.NameToLayer("Ragdoll"), LayerMask.NameToLayer(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_78ceddcae9001e9bbe0ca7e2e41fda92553abb74_Corpsefuscated()));
+			base.gameObject.CF_e45a5bf61e5bb6a2a0eff8c82b9c419f4aa57b0c_Corpsefuscated(LayerMask.NameToLayer(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_10fe84c4152e1ead74b5941f6267e78ed7336d34_Corpsefuscated()), LayerMask.NameToLayer(CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_9ec0d33df2cd10d23c2aae881ab117a6fbc60d4a_Corpsefuscated()));
+			if (this.CF_9440eab0b97147fb457f4aef5196f79ed8ed99e1_Corpsefuscated <= -1)
+			{
+				CF_c232de9292adb1fd212074f96395fc09e6e80e6d_Corpsefuscated component5 = base.gameObject.GetComponent<CF_c232de9292adb1fd212074f96395fc09e6e80e6d_Corpsefuscated>();
+				float num3 = 10f;
+				float num4 = 0.25f;
+				if (CF_46370489012c10ebb84d20417354d8a60a2da648_Corpsefuscated.CF_64653f8dc5540d4cdc6fa9347088735941f4512b_Corpsefuscated)
+				{
+					num3 = 3f;
+				}
+				if (CF_38a25cb55d6b4ae40c0789c2853d503398332fb8_Corpsefuscated.CF_77b2f80bb74d13bc529dffee038d08e7a32e96b4_Corpsefuscated)
+				{
+					num3 = 1f;
+					num4 = 0.5f;
+				}
+				component5.CF_0cb6948b4447aeccff41a002af5cfd3eb8278eec_Corpsefuscated(num3, CF_f584aa81a01c068749e9044cfc260fef8185c4fa_Corpsefuscated.CF_9ee23f6d3e3ae9ae3310d6cbcce5e851441d7b3e_Corpsefuscated(), num4);
+			}
+		}
+	}
+
+	// Token: 0x06001397 RID: 5015 RVA: 0x000D926C File Offset: 0x000D746C
+	private IEnumerator CF_6a167bd8e5e23ca884ec76bbedcfa2e435628417_Corpsefuscated(float CF_ef3d09b319135cd2fa01c28d069bfb79d1c5fc54_Corpsefuscated)
+	{
+		yield return new WaitForSeconds(CF_ef3d09b319135cd2fa01c28d069bfb79d1c5fc54_Corpsefuscated);
+		this.CF_1fdcdb7af0dd180732c3b2dcf7faa009bd66f710_Corpsefuscated();
+		yield break;
+	}
+
+	// Token: 0x06001398 RID: 5016 RVA: 0x00013655 File Offset: 0x00011855
+	private void CF_1fdcdb7af0dd180732c3b2dcf7faa009bd66f710_Corpsefuscated()
+	{
+		UnityEngine.Object.Destroy(this.CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated);
+		UnityEngine.Object.Destroy(this.CF_2221218179ff500a6bc4011ffdeaf1fcd7d044b2_Corpsefuscated);
+		UnityEngine.Object.Destroy(this.CF_0fedc6ee052ac82d6d33b3a305e24863d905d37b_Corpsefuscated);
+		UnityEngine.Object.Destroy(this.CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated);
+		UnityEngine.Object.Destroy(this.CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated);
+	}
+
+	// Token: 0x06001399 RID: 5017 RVA: 0x0000CCEA File Offset: 0x0000AEEA
+	private static float CF_6edfc67ef588c609bf36afa19dc09f1447506284_Corpsefuscated(object obj)
+	{
+		return Convert.ToSingle(obj);
+	}
+
+	// Token: 0x0600139A RID: 5018 RVA: 0x0000CCF2 File Offset: 0x0000AEF2
+	public static int CF_ee47aae4e287c18f22de46192a68931e10fc6e33_Corpsefuscated(object obj)
+	{
+		return Convert.ToInt32(obj);
+	}
+
+	// Token: 0x04001922 RID: 6434
+	private static float CF_0ddc414300ff72299f0fd2dd4c13a397255297df_Corpsefuscated = 88f;
+
+	// Token: 0x04001923 RID: 6435
+	private static float CF_084a41be79908cdcf62a408074f1a1c0459c8aa2_Corpsefuscated = 47f;
+
+	// Token: 0x04001924 RID: 6436
+	private static float CF_b01ea091cc36d7c04b84b01a3a6149c2ac806e40_Corpsefuscated = 63f;
+
+	// Token: 0x04001925 RID: 6437
+	private static float CF_69466757c07a8f751ac06a7ae15dfb91481bce3b_Corpsefuscated = 76f;
+
+	// Token: 0x04001926 RID: 6438
+	private static float CF_bdb40d6f20e917dacddd45827b1bab729960901d_Corpsefuscated = 46f;
+
+	// Token: 0x04001927 RID: 6439
+	private static float CF_4e95944047cf73e9d20b1f9586bbc660376f74cd_Corpsefuscated = 22f;
+
+	// Token: 0x04001928 RID: 6440
+	private static float CF_debcc4d2d5e592407fbd60266829f97a0235401b_Corpsefuscated = 85f;
+
+	// Token: 0x04001929 RID: 6441
+	private static float CF_c8df91aae0fe5283e11dd1d4ecb7cc77a0ee4413_Corpsefuscated = 46f;
+
+	// Token: 0x0400192A RID: 6442
+	private static float CF_13b1928a2000174837b1c7f7ae6557ef5b433cd3_Corpsefuscated = 59f;
+
+	// Token: 0x0400192B RID: 6443
+	private static float CF_a38bccb8cbf61e616bb71ac6aefc8b147000d75e_Corpsefuscated = 66.5f;
+
+	// Token: 0x0400192C RID: 6444
+	private static float CF_dd58bce9bb4c1bc13f0215a4fd7e928a898c2d14_Corpsefuscated = 55f;
+
+	// Token: 0x0400192D RID: 6445
+	private static float CF_a72023d9b5c5ea93042ebdff39f6a2a319b88c38_Corpsefuscated = 64.5f;
+
+	// Token: 0x0400192E RID: 6446
+	private static float CF_a61618f7467a71449ca1e86cc7da3166d5170df1_Corpsefuscated = 76.25f;
+
+	// Token: 0x0400192F RID: 6447
+	private static float CF_83543df07c229a44d8a2b9eb6e111607ea7d1094_Corpsefuscated = 3f;
+
+	// Token: 0x04001930 RID: 6448
+	private static float CF_f1cae4ef29145ee5558a7091df3abacce186cb7c_Corpsefuscated = 27f;
+
+	// Token: 0x04001931 RID: 6449
+	private static float CF_50aa71b8917c59743669babf63e7a385c28bb038_Corpsefuscated = 14f;
+
+	// Token: 0x04001932 RID: 6450
+	private static float CF_48dd234b40b2f0ce4c15305d1eb414f00aa14b2c_Corpsefuscated = 38f;
+
+	// Token: 0x04001933 RID: 6451
+	private static float CF_5cc4f256020b856ace08c7dcff703cbe40b92c70_Corpsefuscated = 76f;
+
+	// Token: 0x04001934 RID: 6452
+	private static float CF_cf1e7e569f06981e24a8996808a0cf403e590717_Corpsefuscated = 48f;
+
+	// Token: 0x04001935 RID: 6453
+	private static float CF_63e4b14e7165eacd264ad34c2f63ebfd1b2644ab_Corpsefuscated = 24f;
+
+	// Token: 0x04001936 RID: 6454
+	[NonSerialized]
+	public CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_300f2b5381ef57a68e2024ca9a2744ff260aa572_Corpsefuscated = true;
+
+	// Token: 0x04001937 RID: 6455
+	[NonSerialized]
+	public CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_c951910cf38e1ee3d90b0b1e9689895cc74a3033_Corpsefuscated = 0f;
+
+	// Token: 0x04001938 RID: 6456
+	private Vector3 CF_4238387bef130d432afe34ab3fff0cc5557827ef_Corpsefuscated;
+
+	// Token: 0x04001939 RID: 6457
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_240e751d9940107fa0de119e145fcdc79209f26c_Corpsefuscated = 1f;
+
+	// Token: 0x0400193A RID: 6458
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_b16b3f9a6f821d8609c218ed9c129c5ec3d9745d_Corpsefuscated = 1f;
+
+	// Token: 0x0400193B RID: 6459
+	[NonSerialized]
+	public CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_42575b6bd4052ee443334e5373e637fc11c6df39_Corpsefuscated = false;
+
+	// Token: 0x0400193C RID: 6460
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated maxHealth = 99999f;
+
+	// Token: 0x0400193D RID: 6461
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_78b1babb7e705c1206e5b3409fe8bdbbd7e0e494_Corpsefuscated = 2f;
+
+	// Token: 0x0400193E RID: 6462
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_7160e7fe5c030c9ee9693c7e2d246f1a2bd68c9b_Corpsefuscated = 0.35f;
+
+	// Token: 0x0400193F RID: 6463
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_2910710b86412be3ee4887edada62ec5c3c7698f_Corpsefuscated = 5f;
+
+	// Token: 0x04001940 RID: 6464
+	private CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated CF_1972cc13011e69377dad8548d13d8dfe59601ef3_Corpsefuscated = 5;
+
+	// Token: 0x04001941 RID: 6465
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_32bc43ea745a38e9658f9515bf2a26eff6587c4f_Corpsefuscated = 0.5f;
+
+	// Token: 0x04001942 RID: 6466
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_02cbb823249a81758645491aa57e4ba7b3af5026_Corpsefuscated = 0.35f;
+
+	// Token: 0x04001943 RID: 6467
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_071d8c909c6d4577fc32736f5156364e4d361263_Corpsefuscated = 5f;
+
+	// Token: 0x04001944 RID: 6468
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_f14e363b579753881a7ddc0d416cbe2beebc9233_Corpsefuscated = 0.25f;
+
+	// Token: 0x04001945 RID: 6469
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_e6d45fa5546f680820a955d03ab985926134ed1d_Corpsefuscated = 0.35f;
+
+	// Token: 0x04001946 RID: 6470
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_563b7340b1f953afd116b5f2010c18d3495b61f6_Corpsefuscated = 0.1f;
+
+	// Token: 0x04001947 RID: 6471
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_fa3bbb385df87c2d83a9bf8b517aaa4e80bfb681_Corpsefuscated = 0.5f;
+
+	// Token: 0x04001948 RID: 6472
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_242f9805724d3a7e4d999a182ece5aeb93016648_Corpsefuscated = 0f;
+
+	// Token: 0x04001949 RID: 6473
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_85185be73b8778a185ae6b7a1584e69b3a6a01ee_Corpsefuscated = 1f;
+
+	// Token: 0x0400194A RID: 6474
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_6c4421be9ff45f39ac9ce2cacf98ad8f5d199f51_Corpsefuscated = 1.5f;
+
+	// Token: 0x0400194B RID: 6475
+	private CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_522021f35985e3b1719b4d71af9b1c50cdaf7319_Corpsefuscated = false;
+
+	// Token: 0x0400194C RID: 6476
+	private CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_57da6cb704cd3db435a349005714a972f3502b5f_Corpsefuscated = true;
+
+	// Token: 0x0400194D RID: 6477
+	private CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated CF_7d013d391020217fd2b9b24e81f79a30f4786f34_Corpsefuscated = 0;
+
+	// Token: 0x0400194E RID: 6478
+	private CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated CF_8337ec2024351ce75f8a7b88ee9d99e767375994_Corpsefuscated = 5;
+
+	// Token: 0x0400194F RID: 6479
+	private CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated CF_9efa36b019c819f76805d182e680b07e1d0dd8c3_Corpsefuscated = 0;
+
+	// Token: 0x04001950 RID: 6480
+	private CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated CF_c166974edaeb752a0e019728031060e0a67836b6_Corpsefuscated = 2;
+
+	// Token: 0x04001951 RID: 6481
+	private CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated CF_44adfc2ebfa47c78f8c040e481047b7c746f6bb8_Corpsefuscated = 3;
+
+	// Token: 0x04001952 RID: 6482
+	private CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_28bcb2ffd00feb03d6b6c773ad5284d8921e6550_Corpsefuscated = false;
+
+	// Token: 0x04001953 RID: 6483
+	private CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_84ba75c841d14793dd73817e9a4d36315f36d52f_Corpsefuscated = false;
+
+	// Token: 0x04001954 RID: 6484
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_31b3968d758f09174ce10c879e7c8ca4b8829891_Corpsefuscated = 1f;
+
+	// Token: 0x04001955 RID: 6485
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_520e9a5be2c41895688a62b28589d56eb205be97_Corpsefuscated = 1f;
+
+	// Token: 0x04001956 RID: 6486
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_2064c98879257133ecdbde85abf676a84b1c036c_Corpsefuscated = 1f;
+
+	// Token: 0x04001957 RID: 6487
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_5145b846d4da9e940e4b37b5897cafb04a4f4c6d_Corpsefuscated = 1f;
+
+	// Token: 0x04001958 RID: 6488
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_2b75264cdbc3930e0b541e9ae34a1cdca235fa1c_Corpsefuscated = 1f;
+
+	// Token: 0x04001959 RID: 6489
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_66ddeebf9801afb13e4db031efcd9aec9d9266d0_Corpsefuscated = 5f;
+
+	// Token: 0x0400195A RID: 6490
+	private CF_816d9b75a20c7c4e0072fa3e0280ee65eb5ff1eb_Corpsefuscated CF_c0b1afe435c735f0186f226f32fb6d423fb0ef7b_Corpsefuscated = string.Empty;
+
+	// Token: 0x0400195B RID: 6491
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_6a86ce12ed39db6b2420d271562f6824eed14d6e_Corpsefuscated = 0.1f;
+
+	// Token: 0x0400195C RID: 6492
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_70d3a884325eeb3c1e10ad0a04473ac961d4b1a1_Corpsefuscated = 1f;
+
+	// Token: 0x0400195D RID: 6493
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_3ded381e07b598326308543ee5bc7a19013d7a3a_Corpsefuscated = 1f;
+
+	// Token: 0x0400195E RID: 6494
+	[NonSerialized]
+	public CF_661d8b0c83e4eeefbceb6649543852117ff78d38_Corpsefuscated[] CF_6f2102e693dd90f333a924cc5152eb3beb80f5d4_Corpsefuscated;
+
+	// Token: 0x0400195F RID: 6495
+	[NonSerialized]
+	public GameObject[] CF_963476a0fc8aa570f0fb5c5f086931fa230139fe_Corpsefuscated;
+
+	// Token: 0x04001960 RID: 6496
+	[NonSerialized]
+	public CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated[] CF_4955d22291f972b71d29e7676a9e2b386bb08b0c_Corpsefuscated = new CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated[0];
+
+	// Token: 0x04001961 RID: 6497
+	[NonSerialized]
+	public CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_3dec43fc7d787e76d4cb625f0a41d39b6d1a25bc_Corpsefuscated = false;
+
+	// Token: 0x04001962 RID: 6498
+	[NonSerialized]
+	public CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_44a06b92372659b3bb66465f3abd273a5e45e477_Corpsefuscated = false;
+
+	// Token: 0x04001963 RID: 6499
+	[NonSerialized]
+	public CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_73031e4c0377b7006bc26f4e07d54b9fffb12838_Corpsefuscated = false;
+
+	// Token: 0x04001964 RID: 6500
+	[NonSerialized]
+	public CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_96ada46c7135e2822feae59ac0350409a289c495_Corpsefuscated = true;
+
+	// Token: 0x04001965 RID: 6501
+	private float CF_65a1af218dfa8791656121669b2404ae7b168dd6_Corpsefuscated = 1f;
+
+	// Token: 0x04001966 RID: 6502
+	private float CF_ff0d4dc20d7adc76d85ba0d7cc04f07cbd6ba053_Corpsefuscated = 0.5f;
+
+	// Token: 0x04001967 RID: 6503
+	private CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated CF_5679ed6ea2a561f4901dafc98630daaa3a34ba94_Corpsefuscated = 0;
+
+	// Token: 0x04001968 RID: 6504
+	[NonSerialized]
+	public CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated id = -1;
+
+	// Token: 0x04001969 RID: 6505
+	[NonSerialized]
+	public CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated oid = -1;
+
+	// Token: 0x0400196A RID: 6506
+	[NonSerialized]
+	public CF_816d9b75a20c7c4e0072fa3e0280ee65eb5ff1eb_Corpsefuscated CF_b06ed61104ed406239fdf44de861da07f02906d2_Corpsefuscated = string.Empty;
+
+	// Token: 0x0400196B RID: 6507
+	private CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated CF_9440eab0b97147fb457f4aef5196f79ed8ed99e1_Corpsefuscated = -1;
+
+	// Token: 0x0400196C RID: 6508
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_cee23f77eef497b7ae17ab48f1c5ca5f9ec2bbf0_Corpsefuscated = -1f;
+
+	// Token: 0x0400196D RID: 6509
+	[NonSerialized]
+	public GameObject CF_96668f0c701b8780ed76411935cbc9c019e69a1a_Corpsefuscated;
+
+	// Token: 0x0400196E RID: 6510
+	[NonSerialized]
+	public AudioClip[] CF_0f4a080312fcdbc1a4b23ddb790f52753692c7f8_Corpsefuscated;
+
+	// Token: 0x0400196F RID: 6511
+	[NonSerialized]
+	public AudioClip[] CF_4e47e3279951e3c6ce28f407b12a32c47db24b1b_Corpsefuscated;
+
+	// Token: 0x04001970 RID: 6512
+	[NonSerialized]
+	public GameObject[] CF_7ee6f4053724dd856b89c582ef9ba29df25ecd73_Corpsefuscated;
+
+	// Token: 0x04001971 RID: 6513
+	[NonSerialized]
+	public GameObject[] CF_7444b876bc8b34276e8c7a159336a966d88a6e0f_Corpsefuscated;
+
+	// Token: 0x04001972 RID: 6514
+	[NonSerialized]
+	public GameObject[] CF_8d1f26e4117e7c7a8710c4808a69da816db0fe8c_Corpsefuscated;
+
+	// Token: 0x04001973 RID: 6515
+	[NonSerialized]
+	public GameObject[] CF_087b0a457aac081178dbe1e0c84db261d12b4c57_Corpsefuscated;
+
+	// Token: 0x04001974 RID: 6516
+	[NonSerialized]
+	public GameObject[] CF_bf6d2ae9464c748ac8ab9bf40a094a304b85cd01_Corpsefuscated;
+
+	// Token: 0x04001975 RID: 6517
+	[NonSerialized]
+	public GameObject[] CF_1451e2b6c4e3b40dfe3a450f58a56ac52a416927_Corpsefuscated;
+
+	// Token: 0x04001976 RID: 6518
+	[NonSerialized]
+	public GameObject[] CF_8052a51f0daadddd7f78d4426df2268dea9b51bd_Corpsefuscated;
+
+	// Token: 0x04001977 RID: 6519
+	[NonSerialized]
+	public GameObject[] CF_69cbc9317c82099dd20b91536cd7bc3c61c974ad_Corpsefuscated;
+
+	// Token: 0x04001978 RID: 6520
+	[NonSerialized]
+	public GameObject[] CF_03d9b9017c99204403005f39c7f8b98dc2d9c94c_Corpsefuscated;
+
+	// Token: 0x04001979 RID: 6521
+	[NonSerialized]
+	public Collider[] CF_aa46a553df3cc90444ac405befa9549481b592d7_Corpsefuscated;
+
+	// Token: 0x0400197A RID: 6522
+	[NonSerialized]
+	public Collider[] CF_c8a60deb5dacfc80b2c50e55f8383a1a555dbe6e_Corpsefuscated;
+
+	// Token: 0x0400197B RID: 6523
+	[NonSerialized]
+	public GameObject[] CF_79f818cbf1c4d416f010bf0853967e54d38bcd06_Corpsefuscated;
+
+	// Token: 0x0400197C RID: 6524
+	[NonSerialized]
+	public GameObject[] CF_80140f3e366043c674158fa537f4832323799e5b_Corpsefuscated;
+
+	// Token: 0x0400197D RID: 6525
+	[NonSerialized]
+	public GameObject CF_11926ee74d66ee37267d9566b869a8f552645269_Corpsefuscated;
+
+	// Token: 0x0400197E RID: 6526
+	[NonSerialized]
+	public GameObject[] CF_928c51d6511d41bf35ce2ac5b71f800fe4a74fe4_Corpsefuscated;
+
+	// Token: 0x0400197F RID: 6527
+	[NonSerialized]
+	public CF_73ac86412ae9fadbbe7ee2839ee6dbd77cbd11fe_Corpsefuscated[] CF_4bd3e1ae51e5e08c772c461897cfc636107cdeba_Corpsefuscated;
+
+	// Token: 0x04001980 RID: 6528
+	[NonSerialized]
+	public GameObject[] CF_4d38401b15c5785bb110b18e196adc2db746e19d_Corpsefuscated;
+
+	// Token: 0x04001981 RID: 6529
+	[NonSerialized]
+	public GameObject[] CF_ac14ff19cfe7bdbcf92f2fe4a50ed86076ea7049_Corpsefuscated;
+
+	// Token: 0x04001982 RID: 6530
+	[NonSerialized]
+	public GameObject[] CF_058aa63b6b676a9f81fad0f7e924aa8fe6eca0e4_Corpsefuscated;
+
+	// Token: 0x04001983 RID: 6531
+	private Animator CF_1c051b04f86c57dd1e6f01be3e8323f4e9015635_Corpsefuscated;
+
+	// Token: 0x04001984 RID: 6532
+	private CF_02fcff275eacc879e279a81799fb6c5c9f4ce43e_Corpsefuscated CF_cff174df35520d195fffc49f68132235da7951a2_Corpsefuscated;
+
+	// Token: 0x04001985 RID: 6533
+	private CF_db84cd72cb83d9a0a7203397922ef735ebeeedee_Corpsefuscated CF_2221218179ff500a6bc4011ffdeaf1fcd7d044b2_Corpsefuscated;
+
+	// Token: 0x04001986 RID: 6534
+	private CF_0abb688c000c71fd1ce00b2b32eed33b0d7cf1b8_Corpsefuscated CF_0fedc6ee052ac82d6d33b3a305e24863d905d37b_Corpsefuscated;
+
+	// Token: 0x04001987 RID: 6535
+	private AudioSource audioSrc;
+
+	// Token: 0x04001988 RID: 6536
+	private NavMeshAgent CF_1355e2ed401dabb049d9ca41e68dd799ac0a7112_Corpsefuscated;
+
+	// Token: 0x04001989 RID: 6537
+	private Collider collider;
+
+	// Token: 0x0400198A RID: 6538
+	private CF_3f1e74ee140ab9f0494153f1e02bdef3f07d9615_Corpsefuscated CF_1bc0faa87aba15fe1baf63cecc71fa1447ac4f65_Corpsefuscated;
+
+	// Token: 0x0400198B RID: 6539
+	private GameObject CF_a30ea844ac85f95a00d84d9c1f284315d5a159e3_Corpsefuscated;
+
+	// Token: 0x0400198C RID: 6540
+	[NonSerialized]
+	public CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated CF_4117636a87f83e5078a23d1ec292c90398ea4870_Corpsefuscated = 0;
+
+	// Token: 0x0400198D RID: 6541
+	[NonSerialized]
+	public CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_f96abee21c573bb7938ec0dcc1b13bdae925bafd_Corpsefuscated = false;
+
+	// Token: 0x0400198E RID: 6542
+	private CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_413f9ab6711a7e6e46055dcce86d393313ee167d_Corpsefuscated = false;
+
+	// Token: 0x0400198F RID: 6543
+	private CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_a4d4b9a9bd33322103a438f669b4ca4b3bf67a51_Corpsefuscated = false;
+
+	// Token: 0x04001990 RID: 6544
+	[NonSerialized]
+	public CF_9fa548ad08e3d19b5b338c7b5804ba5f8cb72556_Corpsefuscated CF_78dde0631c8ac0c39be581bb201739bc2e1ea8e5_Corpsefuscated = false;
+
+	// Token: 0x04001991 RID: 6545
+	[NonSerialized]
+	public CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_e91c0f135300774febb93d576bfab774e4964ea2_Corpsefuscated = 0f;
+
+	// Token: 0x04001992 RID: 6546
+	[NonSerialized]
+	public CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_481ee787c01304aed16580fe2a662cd53f29f587_Corpsefuscated = 0f;
+
+	// Token: 0x04001993 RID: 6547
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_aad4a8d970831b0e29707f1b2c598c93901d83ef_Corpsefuscated = 0f;
+
+	// Token: 0x04001994 RID: 6548
+	private CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_9311a09fc83b741d0cba7943884c1430c4dc92a7_Corpsefuscated = 0f;
+
+	// Token: 0x04001995 RID: 6549
+	[NonSerialized]
+	public CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated health = 99999f;
+
+	// Token: 0x04001996 RID: 6550
+	[NonSerialized]
+	public CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_346d86053951ac7131a04c6642bf8dbc9b9be801_Corpsefuscated = 99999f;
+
+	// Token: 0x04001997 RID: 6551
+	[NonSerialized]
+	public CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_dc0c3983c8d561f9f616be9ed5b73d5d071c6c63_Corpsefuscated = 99999f;
+
+	// Token: 0x04001998 RID: 6552
+	[NonSerialized]
+	public CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_a7c7b0a17f95a228806ab9788b72bb071595f37c_Corpsefuscated = 99999f;
+
+	// Token: 0x04001999 RID: 6553
+	[NonSerialized]
+	public CF_04e0074d7a5ac685ec9f72b1c92a9fb1564c1cee_Corpsefuscated CF_4b63c66d85bb11a8054e42bb2de1fa024bfb50b6_Corpsefuscated = 99999f;
+
+	// Token: 0x0400199A RID: 6554
+	private CF_306af5a2adad5c53a383277e386c41856e86843f_Corpsefuscated CF_69122001308b0a099a4dc181079201ca40c8f77b_Corpsefuscated = 0;
+
+	// Token: 0x0400199B RID: 6555
+	private Vector3 CF_0b78b9a60d7d1c6d396cb24495fddc5e8b0c5a4c_Corpsefuscated;
+
+	// Token: 0x0400199C RID: 6556
+	private float CF_44bd8938196918bfb617a06b2040a47e892f5a1c_Corpsefuscated;
+
+	// Token: 0x0400199D RID: 6557
+	private float CF_bcaff7554a53bf54bb27ca008571f68626c90f36_Corpsefuscated = 1f;
+}
